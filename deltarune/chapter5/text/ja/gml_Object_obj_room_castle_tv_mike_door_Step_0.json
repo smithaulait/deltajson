@@ -1,0 +1,15 @@
+{
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_15_0": "#軽く#ノックする",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_16_0": "#ノックしない",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_28_0": "＊ (マイクドアだ)/",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_29_0": "＊ (不思議な感覚に襲われた^1…\n　 今日　このとびらの中に\n　 あるものは…)/",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_30_0": "＊ (昨日　中に入っていない場合^1　\n　 意味が　わからないだろう)/",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_33_0": "＊ (マイクドアだ…)/",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_35_0": "＊ (ノックする？)/",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_59_0": "＊ (ノックした…)/%",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_65_0": "＊ (マイクの　誘惑に　勝った)/%",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_93_0": "#シケシケな#ノックをする",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_94_0": "#ノックしない",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_100_0": "＊ (マイクドアだ)/",
+  "obj_room_castle_tv_mike_door_slash_Step_0_gml_123_0": "＊ (シケシケの　誘惑に　勝った)/%"
+}

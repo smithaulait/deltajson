@@ -1,0 +1,23 @@
+{
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_15_0": "#Buy",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_16_0": "#Do not",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_21_0": "* (Drink dispenser^1. It only accepts tickets and Flowery Dollars.)/",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_45_0": "* (It's a soda machine.\nThat you insert\nmoney into.\nSomewhere.)",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_48_0": "Buy",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_49_0": "Dispense",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_50_0": "Talk",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_51_0": "Exit",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_57_0": "FreeDrink",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_75_0": "\\EK* So far^1, talking to machines doesn't do anything.../",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_77_0": "\\E2\\V0* That's because you don't believe in yourself./",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_79_0": "\\EE* Huh^1? Flowery!^1? Wh-where are you?/",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_81_0": "\\E3\\VM* I'm not here^1. I'm just a voice-activated recording./",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_82_0": "\\E2\\Vv* Also^1, I predicted what you were going to say./",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_84_0": "\\En* .../",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_86_0": "\\E3\\VY* W-wait^1. You really mean it^1? You..^1. like my style?/",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_88_0": "\\Ep* WHEN WOULD I SAY THAT!?/%",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_91_0": "End recording...",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_95_0": "\\E7\\VV* Heh^1. You really know how to make someone.../",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_96_0": "\\E3\\VN* ..^1. feel special^1, don't you^1, Raly?/",
+  "obj_dw_fcastle_cafe_slash_Other_12_gml_98_0": "\\Ep* I'M JUST STANDING HERE!!!\\f0/%"
+}

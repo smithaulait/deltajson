@@ -1,0 +1,8 @@
+{
+  "obj_shortcut_door_slash_Step_0_gml_15_0": "* (It's a door.^1)&* (Where will you go?)/%",
+  "obj_shortcut_door_slash_Step_0_gml_63_0": "[Not found]",
+  "obj_shortcut_door_slash_Step_0_gml_68_0": "(Stay here)",
+  "obj_shortcut_door_slash_Step_0_gml_74_0": "Cancel",
+  "obj_shortcut_door_slash_Step_0_gml_123_0": "* (..^1. but^1, the door was not open there.)/%",
+  "obj_shortcut_door_slash_Other_10_gml_13_0": "* (It's a lone doorframe.^1)&* (But for some reason^1, you can't see through it...)/%"
+}

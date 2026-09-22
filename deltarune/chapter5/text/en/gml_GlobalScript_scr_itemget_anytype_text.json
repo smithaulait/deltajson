@@ -1,0 +1,11 @@
+{
+  "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_22_0": "ARMORs",
+  "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_29_0": "WEAPONs",
+  "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_36_0": "ITEMs",
+  "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_38_0": "STORAGE",
+  "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_44_0": "KEY ITEMs",
+  "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_51_0": "MONEY HOLE",
+  "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_52_0": " Dark Dollars",
+  "obj_treasure_room_slash_Other_10_gml_76_0": "* (\\cY~1\\cW was added to your \\cY~2\\cW.)",
+  "obj_treasure_room_slash_Other_10_gml_83_0": "* (You have too many \\cY~2\\cW to take \\cY~1\\c0.)"
+}
