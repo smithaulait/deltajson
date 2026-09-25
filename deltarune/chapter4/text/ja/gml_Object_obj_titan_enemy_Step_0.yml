@@ -1,0 +1,159 @@
+"obj_titan_enemy_slash_Step_0_gml_70_0": |-
+  ＊ …
+"obj_titan_enemy_slash_Step_0_gml_395_0": |-
+  ＊ 老人が　~1に
+  　 あめちゃんを　くれた！
+"obj_titan_enemy_slash_Step_0_gml_515_0": |-
+  …やったか…？/%
+"obj_titan_enemy_slash_Step_0_gml_593_0": |-
+  なっ…
+  アイツ なにを…？/%
+"obj_titan_enemy_slash_Step_0_gml_617_0": |-
+  …回復してる…/%
+"obj_titan_enemy_slash_Step_0_gml_649_0": |-
+  ラルセイ！
+  どうやったら
+  止められる！？/%
+"obj_titan_enemy_slash_Step_0_gml_671_0": |-
+  …/%
+"obj_titan_enemy_slash_Step_0_gml_693_0": |-
+  わからない…/%
+"obj_titan_enemy_slash_Step_0_gml_735_0": |-
+  ボクたち たぶん…/%
+"obj_titan_enemy_slash_Step_0_gml_758_0": |-
+  外側の殻にしか
+  ダメージを
+  与えられて
+  なかったんだ/%
+"obj_titan_enemy_slash_Step_0_gml_777_0": |-
+  内側に
+  ダメージを
+  与えないかぎり…/%
+"obj_titan_enemy_slash_Step_0_gml_796_0": |-
+  このバトルは…
+  終わらない…/%
+"obj_titan_enemy_slash_Step_0_gml_815_0": |-
+  …/%
+"obj_titan_enemy_slash_Step_0_gml_852_0": |-
+  このまま…/%
+"obj_titan_enemy_slash_Step_0_gml_871_0": |-
+  戦いつづけるしか…/%
+"obj_titan_enemy_slash_Step_0_gml_966_0": |-
+  おまえさんたち
+  あきらめる
+  つもりかね？/%
+"obj_titan_enemy_slash_Step_0_gml_1002_0": |-
+  まさか
+  策が思いつかん
+  わけじゃあるまい？/%
+"obj_titan_enemy_slash_Step_0_gml_1027_0": |-
+  じ…じいさん！
+  なんで…
+  てっきり…/%
+"obj_titan_enemy_slash_Step_0_gml_1047_0": |-
+  状況が変わるのを
+  待っとっただけじゃよ/%
+"obj_titan_enemy_slash_Step_0_gml_1067_0": |-
+  じゃが もう
+  だまって
+  見てはおれん/%
+"obj_titan_enemy_slash_Step_0_gml_1106_0": |-
+  コイツを
+  こらしめるぞい！/%
+"obj_titan_enemy_slash_Step_0_gml_1126_0": |-
+  …おう！/%
+"obj_titan_enemy_slash_Step_0_gml_1207_0": |-
+  デュアルバスター
+"obj_titan_enemy_slash_Step_0_gml_1209_0": |-
+  ダブル
+  まほう
+"obj_titan_enemy_slash_Step_0_gml_1244_0": |-
+  ガッハッハ！
+  なかなかやるのう！/%
+"obj_titan_enemy_slash_Step_0_gml_1264_0": |-
+  ヘヘッ
+  だろ？/%
+"obj_titan_enemy_slash_Step_0_gml_1283_0": |-
+  でもやっぱり
+  外側しか
+  攻撃できねぇな…/%
+"obj_titan_enemy_slash_Step_0_gml_1302_0": |-
+  なら
+  やることは
+  ひとつじゃ/%
+"obj_titan_enemy_slash_Step_0_gml_1323_0": |-
+  …/%
+"obj_titan_enemy_slash_Step_0_gml_1346_0": |-
+  クリス！
+  いいこと
+  思いついたぜ…/%
+"obj_titan_enemy_slash_Step_0_gml_1365_0": |-
+  ただ…/%
+"obj_titan_enemy_slash_Step_0_gml_1384_0": |-
+  おまえは オレに
+  命を あずけねぇと
+  ダメだ/%
+"obj_titan_enemy_slash_Step_0_gml_1403_0": |-
+  …ガチで/%
+"obj_titan_enemy_slash_Step_0_gml_1422_0": |-
+  …あー クソッ！
+  なにを ウダウダ
+  言ってんだ オレは！？/%
+"obj_titan_enemy_slash_Step_0_gml_1464_0": |-
+  オレなら　いける！
+  だよな！？
+  やるぞ！！/%
+"obj_titan_enemy_slash_Step_0_gml_1491_0": |-
+  スージィのアイデア
+"obj_titan_enemy_slash_Step_0_gml_1525_0": |-
+  ＊ タイタン - ATK 40 DEF 0
+  ＊ さまざまな形で顕現する
+  　 闇への恐怖。/
+"obj_titan_enemy_slash_Step_0_gml_1527_0": |-
+  \EZ＊ クリス！！　なにしてるの！？
+  　 こうげきして！！/
+"obj_titan_enemy_slash_Step_0_gml_1528_0": |-
+  \EZ＊ ゴメン…
+  　 いまは　一刻を争うんだ…！/%
+"obj_titan_enemy_slash_Step_0_gml_1532_0": |-
+  ＊ タイタンを見て　時間をムダにした。/%
+"obj_titan_enemy_slash_Step_0_gml_1550_0": "＊ タイタン - \n　 致命傷を負っていないあいだは\n　 体力を回復できるようだ。/%"
+"obj_titan_enemy_slash_Step_0_gml_1537_0": |-
+  ＊ タイタン - ATK 40 DEF 800
+  ＊ さまざまな形で顕現する　 闇への恐怖。/
+"obj_titan_enemy_slash_Step_0_gml_1544_0": |-
+  ＊ 空気が　張りつめる…
+  ＊ (「解放」を　使えるようになった！)/%
+"obj_titan_enemy_slash_Step_0_gml_1538_0": |-
+  ＊ 「こうどう」して生きのびろ…
+  　 光にさらして「勇気」を集め
+  　 TPを獲得したのち…/
+"obj_titan_enemy_slash_Step_0_gml_1539_0": |-
+  ＊ 「\cY解放\c0」で　弱点を暴け！/%
+"obj_titan_enemy_slash_Step_0_gml_1549_0": |-
+  ＊ タマシイが輝き
+  　 老人とスージィを光の力で照らした！/%
+"obj_titan_enemy_slash_Step_0_gml_1600_0": |-
+  ＊ ~1を押して　投げろ！
+"obj_titan_enemy_slash_Step_0_gml_1627_0": |-
+  …いや ちがうな！/%
+"obj_titan_enemy_slash_Step_0_gml_1643_0": |-
+  オレとクリスの
+  スーパーダンク
+  ショットを食らえ！/%
+"obj_titan_enemy_slash_Step_0_gml_1734_0": |-
+  ＊ タマシイが　もっと明るく輝いた！/%
+"obj_titan_enemy_slash_Step_0_gml_1759_0": |-
+  ＊ タマシイが輝き
+  　 ラルセイとスージィを光の力で照らした！/%
+"obj_titan_enemy_slash_Step_0_gml_1817_0": |-
+  ＊ タマシイが燦然と輝く！/%
+"obj_titan_enemy_slash_Step_0_gml_1864_0": |-
+  ＊ スージィが「ウェイク」を使った！/~1
+"obj_titan_enemy_slash_Step_0_gml_1865_0": |-
+  ＊ おい！　起きろ！/%
+"obj_titan_enemy_slash_Step_0_gml_1904_0": |-
+  ＊ (しかし　クリスは
+  　 ダウンしていない…)/%
+"obj_titan_enemy_slash_Step_0_gml_1919_0": |-
+  ＊ ラルセイは「レイズ」を使った！/%

@@ -1,0 +1,28 @@
+"obj_room_ranking_b_slash_Step_0_gml_12_0_b": |-
+  ＊ (床に　なにかが落ちているように
+  　 見えた^1…が^1…
+  　 もう　持っていたようだ)/%
+"obj_room_ranking_b_slash_Step_0_gml_10_0": |-
+  \E5＊ クリス^1　足　貸せ^1！
+  　 オレが　中へ
+  　 押し込んでやる！/
+"obj_room_ranking_b_slash_Step_0_gml_12_0": |-
+  \E0＊ (右の機械を
+  　 使うんじゃないかな…？)/%
+"obj_room_ranking_b_slash_Step_0_gml_41_0": |-
+  ＊ 100ポイント以上　入れてください。/%
+"obj_room_ranking_b_slash_Step_0_gml_44_0": |-
+  ＊ もう一度？/%
+"obj_room_ranking_b_slash_Step_0_gml_59_0": |2-
+
+  ポイントを
+  入れる
+"obj_room_ranking_b_slash_Step_0_gml_60_0": |2-
+
+  入れない
+"obj_room_ranking_b_slash_Step_0_gml_89_0": |-
+  ＊ ポイントが足りません。/%
+"obj_room_ranking_b_slash_Step_0_gml_114_0": |-
+  ~1 OK
+"obj_room_ranking_b_slash_Step_0_gml_118_0": |-
+  ~1 キャンセル

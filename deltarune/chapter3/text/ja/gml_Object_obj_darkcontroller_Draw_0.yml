@@ -1,0 +1,174 @@
+"obj_darkcontroller_slash_Draw_0_gml_47_0": |-
+  D$ ~1
+"obj_darkcontroller_slash_Draw_0_gml_58_0": |-
+  PTs ~1
+"obj_darkcontroller_slash_Draw_0_gml_74_0": |-
+  せってい
+"obj_darkcontroller_slash_Draw_0_gml_82_0": |-
+  OFF
+"obj_darkcontroller_slash_Draw_0_gml_82_1": |-
+  ON
+"obj_darkcontroller_slash_Draw_0_gml_83_0": |-
+  OFF
+"obj_darkcontroller_slash_Draw_0_gml_83_1": |-
+  ON
+"obj_darkcontroller_slash_Draw_0_gml_84_0": |-
+  OFF
+"obj_darkcontroller_slash_Draw_0_gml_84_1": |-
+  ON
+"obj_darkcontroller_slash_Draw_0_gml_87_0": |-
+  OFF
+"obj_darkcontroller_slash_Draw_0_gml_87_1": |-
+  ON
+"obj_darkcontroller_slash_Draw_0_gml_86_0": |-
+  マスター音量
+"obj_darkcontroller_slash_Draw_0_gml_91_0": |-
+  操作
+"obj_darkcontroller_slash_Draw_0_gml_92_0": |-
+  シンプルVFX
+"obj_darkcontroller_slash_Draw_0_gml_112_0": |-
+  フレーム
+"obj_darkcontroller_slash_Draw_0_gml_95_0": |-
+  タイトル画面へ
+"obj_darkcontroller_slash_Draw_0_gml_93_0": |-
+  フルスクリーン
+"obj_darkcontroller_slash_Draw_0_gml_113_0": |-
+  機能
+"obj_darkcontroller_slash_Draw_0_gml_147_0": |-
+  ボタン
+"obj_darkcontroller_slash_Draw_0_gml_114_0": |-
+  キー
+"obj_darkcontroller_slash_Draw_0_gml_115_0": |-
+  ボタン
+"obj_darkcontroller_slash_Draw_0_gml_117_0": |-
+  下
+"obj_darkcontroller_slash_Draw_0_gml_118_0": |-
+  右
+"obj_darkcontroller_slash_Draw_0_gml_119_0": |-
+  上
+"obj_darkcontroller_slash_Draw_0_gml_120_0": |-
+  左
+"obj_darkcontroller_slash_Draw_0_gml_121_0": |-
+  決定
+"obj_darkcontroller_slash_Draw_0_gml_122_0": |-
+  キャンセル
+"obj_darkcontroller_slash_Draw_0_gml_123_0": |-
+  メニュー
+"obj_darkcontroller_slash_Draw_0_gml_124_0": |-
+  デフォルトにもどす
+"obj_darkcontroller_slash_Draw_0_gml_125_0": |-
+  終了
+"obj_darkcontroller_slash_Draw_0_gml_207_0": "こうげき: "
+"obj_darkcontroller_slash_Draw_0_gml_208_0": "ぼうぎょ: "
+"obj_darkcontroller_slash_Draw_0_gml_209_0": "まりょく: "
+"obj_darkcontroller_slash_Draw_0_gml_212_0": "ガッツ: "
+"obj_darkcontroller_slash_Draw_0_gml_214_0": "LV1 "
+"obj_darkcontroller_slash_Draw_0_gml_226_0": |-
+  ？？？
+"obj_darkcontroller_slash_Draw_0_gml_416_0": |-
+  ？？？
+"obj_darkcontroller_slash_Draw_0_gml_231_0": "イヌ: "
+"obj_darkcontroller_slash_Draw_0_gml_236_0": |-
+  ？？？
+"obj_darkcontroller_slash_Draw_0_gml_448_0": |-
+  コマンダー(LV3)
+  「こうどう」で仲間
+  をリード。
+"obj_darkcontroller_slash_Draw_0_gml_451_0": |-
+  ディレクター(LV3)
+  芸人たちを
+  動かす。
+"obj_darkcontroller_slash_Draw_0_gml_456_0": |-
+  コケミステリ(LV3)
+  中級レベルの
+  コケスキル。
+"obj_darkcontroller_slash_Draw_0_gml_461_0": |-
+  ブレイダー(LV3)
+  ソードこうげきの
+  マスター。
+"obj_darkcontroller_slash_Draw_0_gml_466_0": |-
+  氷ブレイダー(LV3)
+  ソードこうげきの
+  マスター。
+"obj_darkcontroller_slash_Draw_0_gml_471_0": |-
+  ソードケース(LV3)
+  ソードに近づくと
+  呼吸が速くなる。
+"obj_darkcontroller_slash_Draw_0_gml_476_0": |-
+  (LV3)エンジョイ
+  ヤング ライフ。
+"obj_darkcontroller_slash_Draw_0_gml_251_0": "バッドさ: "
+"obj_darkcontroller_slash_Draw_0_gml_528_0": |-
+  ダークナイト(LV3)
+  ダークエネルギーで
+  敵をこうげき。
+"obj_darkcontroller_slash_Draw_0_gml_532_0": |-
+  ダークスター(LV3)
+  オカルト芸人。
+"obj_darkcontroller_slash_Draw_0_gml_536_0": |-
+  ？？？
+"obj_darkcontroller_slash_Draw_0_gml_552_0": "むしり数: "
+"obj_darkcontroller_slash_Draw_0_gml_327_0": |-
+  やさしさ
+"obj_darkcontroller_slash_Draw_0_gml_331_0": |-
+  イヌさ
+"obj_darkcontroller_slash_Draw_0_gml_598_0": |-
+  ダーク王子(LV3)
+  闇の世界の民。
+  仲間ができた。が…
+"obj_darkcontroller_slash_Draw_0_gml_602_0": |-
+  ダークスター(LV3)
+  メソッド演技法
+  には複雑な気分。
+"obj_darkcontroller_slash_Draw_0_gml_609_0_b": |-
+  ウマ(LV3)
+  ウマである。
+"obj_darkcontroller_slash_Draw_0_gml_615_0": |-
+  元ウマ(LV3)
+  かつて
+  ウマであった。
+"obj_darkcontroller_slash_Draw_0_gml_620_0": |-
+  ダーク王子(LV3)
+  闇の世界の民。
+  仲間ができた。
+"obj_darkcontroller_slash_Draw_0_gml_624_0": |-
+  ？？？
+"obj_darkcontroller_slash_Draw_0_gml_651_0": "運ばれ数: "
+"obj_darkcontroller_slash_Draw_0_gml_286_0": "モフさ: "
+"obj_darkcontroller_slash_Draw_0_gml_382_0": |-
+  スノー使い(LV1)#氷属性のまほう#を使えるかも？
+"obj_darkcontroller_slash_Draw_0_gml_383_0": |-
+  フロスター(LV~1)#敵を凍らせる。
+"obj_darkcontroller_slash_Draw_0_gml_384_0": |-
+  トランサー(LV~1)#痛みを受けて#強くなる。
+"obj_darkcontroller_slash_Draw_0_gml_385_0": |-
+  コケ中立者(LV~1)#コケに対し　混沌#でも秩序でもない。
+"obj_darkcontroller_slash_Draw_0_gml_388_0": |-
+  つめたさ
+"obj_darkcontroller_slash_Draw_0_gml_391_0": |-
+  ずぶとさ
+"obj_darkcontroller_slash_Draw_0_gml_453_0": |-
+  (なし)
+"obj_darkcontroller_slash_Draw_0_gml_465_0": |-
+  (なし)
+"obj_darkcontroller_slash_Draw_0_gml_477_0": |-
+  (なし)
+"obj_darkcontroller_slash_Draw_0_gml_585_0": |-
+  ---------
+"obj_darkcontroller_slash_Draw_0_gml_609_0": |-
+  ---------
+"obj_darkcontroller_slash_Draw_0_gml_586_0": "こうげき: "
+"obj_darkcontroller_slash_Draw_0_gml_587_0": "ぼうぎょ: "
+"obj_darkcontroller_slash_Draw_0_gml_588_0": "まりょく: "
+"obj_darkcontroller_slash_Draw_0_gml_766_0": |-
+  アビリティなし
+"obj_darkcontroller_slash_Draw_0_gml_803_0": |-
+  アビリティなし
+"obj_darkcontroller_slash_Draw_0_gml_837_0": |-
+  つかう
+"obj_darkcontroller_slash_Draw_0_gml_839_0": |-
+  すてる
+"obj_darkcontroller_slash_Draw_0_gml_841_0": |-
+  だいじ
+"obj_darkcontroller_slash_Draw_0_gml_956_0": |-
+  ~1を#捨てますか？

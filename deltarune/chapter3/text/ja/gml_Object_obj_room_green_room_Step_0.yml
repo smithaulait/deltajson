@@ -1,0 +1,205 @@
+"obj_room_green_room_slash_Step_0_gml_20_0": |-
+  ＊ まだ　テナの下で働いている
+  　 スタッフの名簿だ。/
+"obj_room_green_room_slash_Step_0_gml_27_0": |-
+  ＊ まだ　こちらの味方になっていない
+  　 者が　いるようだ。/%
+"obj_room_green_room_slash_Step_0_gml_23_0": |-
+  ＊ 全員　こちらの味方になったようだ。/%
+"obj_room_green_room_slash_Step_0_gml_48_0": |-
+  ＊ (勤務中に負傷して
+  　 辞職した人員がいる)/
+"obj_room_green_room_slash_Step_0_gml_49_0": |-
+  ＊ (全員を　こちらの味方にすることは
+  　 もう　できないようだ)/%
+"obj_room_green_room_slash_Step_0_gml_76_0": "\\EK＊ …そこって^1 \n　 トイレとかだろ？/"
+"obj_room_green_room_slash_Step_0_gml_78_0": |-
+  \EQ＊ ボクたちは^1…
+  　 ゲームでもして待ってるね。/%
+"obj_room_green_room_slash_Step_0_gml_480_0": |-
+  \EL＊ ここは…？/%
+"obj_room_green_room_slash_Step_0_gml_493_0": |-
+  ＊ どう？　うちの\O0。
+  　 気に入ったカナ？/
+"obj_room_green_room_slash_Step_0_gml_494_0": |-
+  ＊ 第２ラウンドの準備ができるまで
+  　 ここで　\O1を
+  　 すごしててチョーダイ！/%
+"obj_room_green_room_slash_Step_0_gml_579_0": |-
+  \Ed＊ 次のラウンドも^1…
+  　 やることになっちゃったね。/%
+"obj_room_green_room_slash_Step_0_gml_588_0": |-
+  \EQ＊ スージィが　まだやりたい
+  　 なら　ボクは　ぜんぜん
+  　 かまわないよ！/%
+"obj_room_green_room_slash_Step_0_gml_598_0": |-
+  \ED＊ …/%
+"obj_room_green_room_slash_Step_0_gml_608_0": |-
+  \EN＊ 第２ラウンドは
+  　 すげー楽しかったけどさ…/
+"obj_room_green_room_slash_Step_0_gml_609_0": |-
+  \ED＊ この調子だと　たぶん
+  　 キリがないぜ。/
+"obj_room_green_room_slash_Step_0_gml_610_0": |-
+  \ER＊ …テナには悪りぃけど…/
+"obj_room_green_room_slash_Step_0_gml_611_0": |-
+  \EN＊ これで最後だって
+  　 言いにいこうぜ^1。
+  　 いいよな　クリス？/%
+"obj_room_green_room_slash_Step_0_gml_567_0": |-
+  \E1＊ スージィ^1！　他のひとたち！
+  　 見事な　ゲームっぷり
+  　 だったゾ！/
+"obj_room_green_room_slash_Step_0_gml_569_0": |-
+  \E6＊ ランサー^1！
+  　 おまえも　いたのかよ！？/
+"obj_room_green_room_slash_Step_0_gml_570_0": |-
+  \ED＊ …っつーかさ^1
+  　 おまえ　この闇の世界に
+  　 いたら　マズいんじゃ…/
+"obj_room_green_room_slash_Step_0_gml_572_0": "\\E1＊ ダイジョーブ^1！\n　 カチコチに　なるまで^1 \n\
+  　 まだ　時間があるぞ！/"
+"obj_room_green_room_slash_Step_0_gml_694_0": "\\E2＊ それまで^1 \n　 ゲーミング工場で\n　 バイトするのだ。/"
+"obj_room_green_room_slash_Step_0_gml_695_0": |-
+  \E3＊ 専用のコントローラーも
+  　 もらった！　まだ４回しか
+  　 こわしてない！/
+"obj_room_green_room_slash_Step_0_gml_696_0": |-
+  \E1＊ じゃ^1　ボクさまは
+  　 ボタン押して　稼いでくる^1！
+  　 １押し　１セント！/
+"obj_room_green_room_slash_Step_0_gml_697_0": |-
+  \E8＊ おつぽよぽよ～ん！/%
+"obj_room_green_room_slash_Step_0_gml_639_0": |-
+  ＊ ここは　だれも　通さない。
+  　 ミスター・テナの　お達しだ。/%
+"obj_room_green_room_slash_Step_0_gml_685_0": |-
+  ＊ 戦おうとするヤツとは　戦わない^1。
+  　 ミスター・テナの　お達しだ。/
+"obj_room_green_room_slash_Step_0_gml_686_0": |-
+  ＊ オレと　オマエは　ダチだ^1。
+  　 わかったら　ニッコリ笑え。/%
+"obj_room_green_room_slash_Step_0_gml_700_0": |-
+  ＊ (ザッパーの胸を^1　ボンゴのように
+  　 ポコポコたたいた)\S0/%
+"obj_room_green_room_slash_Step_0_gml_715_0": |-
+  ＊ ヒャッ！　わかった！　わかったから
+  　 もうやめろ！^1　くすぐったい^1！
+  　 降参だ！/
+"obj_room_green_room_slash_Step_0_gml_716_0": |-
+  ＊ あんまり長居すんなよ？/%
+"obj_room_green_room_slash_Step_0_gml_736_0": |-
+  ＊ コラッ^1！　ブツに触るな！！/%
+"obj_room_green_room_slash_Step_0_gml_755_0": |-
+  ＊ ハッ………クション！！！/%
+"obj_room_green_room_slash_Step_0_gml_873_0": |-
+  ＊ なんだオマエ…？　怪しいな。/
+"obj_room_green_room_slash_Step_0_gml_874_0": |-
+  ＊ コイツは　おしおきしねぇとだ…/%
+"obj_room_green_room_slash_Step_0_gml_1137_0": |-
+  \E2＊ あ^1…　クリス　おかえり！/%
+"obj_room_green_room_slash_Step_0_gml_1165_0": |-
+  \E7＊ マジか^1！
+  　 じゃあ次は　３人で
+  　 いっしょに　やろうぜ。/
+"obj_room_green_room_slash_Step_0_gml_1167_0": |-
+  \EQ＊ う…うん^1　でも　大丈夫。
+  　 ボク…ゲームあんまり
+  　 じょうずじゃないから…/%
+"obj_room_green_room_slash_Step_0_gml_1172_0": |-
+  \EK＊ へー。/%
+"obj_room_green_room_slash_Step_0_gml_1182_0": "\\E2＊ ま^1　なんでもいいけどよ^1 \n　 さっさと行こうぜ。/%"
+"obj_room_green_room_slash_Step_0_gml_1235_0": |-
+  \E2＊ お^1　もどってきたな
+  　 クリス！/%
+"obj_room_green_room_slash_Step_0_gml_1244_0": |-
+  \EK＊ …おい^1　ラルセイ^1！
+  　 クリスが　もどってきたぞ！/
+"obj_room_green_room_slash_Step_0_gml_1246_0": |-
+  \EL＊ えっ…^1？
+  　 あっ…ゴメン…/%
+"obj_room_green_room_slash_Step_0_gml_1254_0": |-
+  \EQ＊ RPGやってたら
+  　 夢中になっちゃった…/
+"obj_room_green_room_slash_Step_0_gml_1256_0": |-
+  \EA＊ ウロウロ歩き回って
+  　 ばっかで^1　一度もバトル
+  　 しなかったじゃねーかよ。/
+"obj_room_green_room_slash_Step_0_gml_1258_0": |-
+  \EQ＊ えへへ…ごめん^1。
+  　 じゃ^1　行こっか。/%
+"obj_room_green_room_slash_Step_0_gml_1364_0": |-
+  ＊ ああ^1　ラニーノのこと^1？
+  　 そうね…/%
+"obj_room_green_room_slash_Step_0_gml_1384_0": |-
+  ＊ …うわぁぁぁん！！^1　ワタシの
+  　 キラキラの　お日さまがぁ～！^1！
+  　 消えてしまったわぁぁ～！！/%
+"obj_room_green_room_slash_Step_0_gml_1434_0": |-
+  ＊ 何をしてても　何を見ても
+  　 思い出すのは　彼のことばかり…/
+"obj_room_green_room_slash_Step_0_gml_1435_0": "＊ 昼のあいだも^1…　夜になっても^1… \n　 丸くて大きな\n\
+  　 チーズのかたまりを　見たときも…/%"
+"obj_room_green_room_slash_Step_0_gml_1448_0": |-
+  ＊ 彼の顔かと
+  　 思っちゃうのぉぉ～！！/%
+"obj_room_green_room_slash_Step_0_gml_1476_0": |-
+  ＊ そ^1…そうよね。波に乗ってる
+  　 ワタシなら^1　どんな嵐だって
+  　 １人で　乗り越えられるわ！/%
+"obj_room_green_room_slash_Step_0_gml_1483_0": "＊ ワタシに　メイクしてもらえなく\n　 なって^1　ラニーノは　いまごろ^1\
+  \ \n　 さぞ　困ってるでしょうね！/%"
+"obj_room_green_room_slash_Step_0_gml_1491_0": |-
+  ＊ ありがと^1　クリス^1！
+  　 あなたってホント　キュウリみたいに
+  　 みずみずしくて最高ね…/%
+"obj_room_green_room_slash_Step_0_gml_1502_0": "＊ そ^1…そうよね。\n　 ウェザーガールは　いま^1 \n　 波に乗ってるものね！？/%"
+"obj_room_green_room_slash_Step_0_gml_1509_0": "＊ クールに空に浮かぶ　シングル雲を^1 \n　 だれも　放っておかないわ！/%"
+"obj_room_green_room_slash_Step_0_gml_1516_0": |-
+  ＊ ありがと^1　クリス^1！
+  　 あなたってホント　キュウリみたいに
+  　 みずみずしくて最高ね…/%
+"obj_room_green_room_slash_Step_0_gml_1448_0_b": |-
+  \EL＊ …ったく　どんだけ
+  　 待たすんだよ。/%
+"obj_room_green_room_slash_Step_0_gml_1458_0": |-
+  \EP＊ スージィ^1！　スージィ^1！
+  　 見て見て^1！
+  　 レベル２に　なったよ！/
+"obj_room_green_room_slash_Step_0_gml_1460_0": |-
+  \EA＊ レベル２か…/%
+"obj_room_green_room_slash_Step_0_gml_1472_0": |-
+  \E2＊ クリス^1　おまえ
+  　 ガチゲーマだろ^1。
+  　 どう思う？/%
+"obj_room_green_room_slash_Step_0_gml_1481_0": |-
+  \EL＊ …あっ^1…クリス？/%
+"obj_room_green_room_slash_Step_0_gml_1501_0": |-
+  \EO＊ ゴ…ゴメン^1　クリスのこと
+  　 すっかり忘れちゃってた！/%
+"obj_room_green_room_slash_Step_0_gml_1510_0": |-
+  \EQ＊ スージィと　ゲームするのに
+  　 夢中で…/%
+"obj_room_green_room_slash_Step_0_gml_1518_0": |-
+  \E7＊ そうそう^1　クリスにも
+  　 見せたかったぜ！/%
+"obj_room_green_room_slash_Step_0_gml_1529_0": "\\E9＊ ラルセイのヤツ^1 \n　 矢が落ちてくるところで\n\
+  　 キレはじめたんだぜ！/%"
+"obj_room_green_room_slash_Step_0_gml_1548_0": |-
+  \EX＊ だって　ヒザに直撃しそう
+  　 だったから…/
+"obj_room_green_room_slash_Step_0_gml_1553_0": |-
+  \E1＊ でも…楽しかったよ…/%
+"obj_room_green_room_slash_Step_0_gml_1577_0": |-
+  \EK＊ …そうだ^1！
+  　 クリスも　やる？/
+"obj_room_green_room_slash_Step_0_gml_1582_0": |-
+  \E6＊ いやいや^1　闇の泉を
+  　 封印しにいくんだろ？/
+"obj_room_green_room_slash_Step_0_gml_1585_0": |-
+  \EK＊ あっ^1！　そ…そうだよね！/%
+"obj_room_green_room_slash_Step_0_gml_1611_0": |-
+  \EQ＊ やだな^1…
+  　 なんで忘れちゃったんだろ…/%
+"obj_room_green_room_slash_Step_0_gml_1627_0": |-
+  \EL＊ うし　行こうぜ。/%

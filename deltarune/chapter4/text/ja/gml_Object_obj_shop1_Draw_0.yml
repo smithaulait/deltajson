@@ -1,0 +1,228 @@
+"obj_shop1_slash_Draw_0_gml_98_0": |-
+  \E0＊ どうぞ&　 ごゆっくり^1。&＊ 時間は　たっぷり&　 あるよ。
+"obj_shop1_slash_Draw_0_gml_99_0": |-
+  \E0＊ ヒッヒッヒ^1…&＊ よく来たね。
+"obj_shop1_slash_Draw_0_gml_106_0": |-
+  買う
+"obj_shop1_slash_Draw_0_gml_107_0": |-
+  売る
+"obj_shop1_slash_Draw_0_gml_108_0": |-
+  話す
+"obj_shop1_slash_Draw_0_gml_109_0": |-
+  もどる
+"obj_shop1_slash_Draw_0_gml_143_0": |-
+  $~1
+"obj_shop1_slash_Draw_0_gml_148_0": |-
+  \E0なにを&買うんだい？
+"obj_shop1_slash_Draw_0_gml_149_0": |-
+  \E2ありがとよ
+"obj_shop1_slash_Draw_0_gml_150_0": |-
+  \E0気に&入らない&かい？
+"obj_shop1_slash_Draw_0_gml_151_0": |-
+  \E3カネが&足りないよ
+"obj_shop1_slash_Draw_0_gml_152_0": |-
+  \E3持ち物が&いっぱい&だよ
+"obj_shop1_slash_Draw_0_gml_159_0": |-
+  \E2ありがとね&そうこに&送っとくよ
+"obj_shop1_slash_Draw_0_gml_153_0": |-
+  /＊
+"obj_shop1_slash_Draw_0_gml_167_0": |-
+  で買う？
+"obj_shop1_slash_Draw_0_gml_177_0": |-
+  $~1
+"obj_shop1_slash_Draw_0_gml_169_0": |-
+  はい
+"obj_shop1_slash_Draw_0_gml_170_0": |-
+  いいえ
+"obj_shop1_slash_Draw_0_gml_217_0": |-
+  あなたは誰？
+"obj_shop1_slash_Draw_0_gml_218_0": |-
+  ライトナーについて
+"obj_shop1_slash_Draw_0_gml_220_0": |-
+  この王国について
+"obj_shop1_slash_Draw_0_gml_224_0": |-
+  ジェビルについて
+"obj_shop1_slash_Draw_0_gml_227_0": |-
+  伝説の勇者です
+"obj_shop1_slash_Draw_0_gml_241_0": |-
+  Strange Prisoner
+"obj_shop1_slash_Draw_0_gml_244_0": |-
+  We Won
+"obj_shop1_slash_Draw_0_gml_240_0": |-
+  もどる
+"obj_shop1_slash_Draw_0_gml_255_0": |-
+  \E0つき合うよ&どうせ&ヒマだしね
+"obj_shop1_slash_Draw_0_gml_278_0": |-
+  アイテムを売る
+"obj_shop1_slash_Draw_0_gml_279_0": |-
+  ぶきを売る
+"obj_shop1_slash_Draw_0_gml_280_0": |-
+  ぼうぐを売る
+"obj_shop1_slash_Draw_0_gml_292_0": |-
+  そうこのアイテムを売る
+"obj_shop1_slash_Draw_0_gml_293_0": |-
+  もどる
+"obj_shop1_slash_Draw_0_gml_285_0": |-
+  \E0どんな&ガラクタ&売って&くれんだい
+"obj_shop1_slash_Draw_0_gml_286_0": |-
+  \E0今ので&最後じゃ&ないかい？
+"obj_shop1_slash_Draw_0_gml_287_0": |-
+  \E3なにも&持ってない&じゃないか
+"obj_shop1_slash_Draw_0_gml_347_0": |-
+  \E0アイテムを&引き取るよ
+"obj_shop1_slash_Draw_0_gml_348_0": |-
+  \E0どんな&ぶきを&くれんだい
+"obj_shop1_slash_Draw_0_gml_349_0": |-
+  \E0どんな&ぼうぐを&くれんだい
+"obj_shop1_slash_Draw_0_gml_350_0": |-
+  \E2ありがとよ
+"obj_shop1_slash_Draw_0_gml_351_0": |-
+  \E0やめんの&かい？
+"obj_shop1_slash_Draw_0_gml_352_0": |-
+  \E3そんなモン&いらないよ
+"obj_shop1_slash_Draw_0_gml_353_0": |-
+  \E0なにも&ないじゃ&ないか
+"obj_shop1_slash_Draw_0_gml_365_0": |-
+  で売る？
+"obj_shop1_slash_Draw_0_gml_407_0": |-
+  $~1
+"obj_shop1_slash_Draw_0_gml_367_0": |-
+  はい
+"obj_shop1_slash_Draw_0_gml_368_0": |-
+  いいえ
+"obj_shop1_slash_Draw_0_gml_395_0": |-
+  \E0＊ またおいで^1…&＊ …次が　あればね。&＊ ハッハッハ…/%
+"obj_shop1_slash_Draw_0_gml_460_0_b": |-
+  \E0＊ ああ^1。あんたの言いたいことは
+  　 わかるよ^1。恥ずかしがるこたぁ
+  　 ありゃしない。/
+"obj_shop1_slash_Draw_0_gml_461_0_b": |-
+  \E2＊ ナイトと戦ったんだろう^1？
+  　 あいつにゃ　どうやったって
+  　 勝てっこない^1。みんな知ってる
+  　 ことさね…/
+"obj_shop1_slash_Draw_0_gml_462_0": |-
+  \E1＊ …なんと！^1　シャドウジェムを
+  　 手に入れたのかい！？/
+"obj_shop1_slash_Draw_0_gml_467_0": |-
+  \E3＊ …なるほど^1。それじゃあ
+  　 シャドウマントを
+  　 取りもどせたってことだね？/
+"obj_shop1_slash_Draw_0_gml_468_0": |-
+  \E1＊ そいつぁ　おかしなことだよ
+  　 クリス^1…　いったい　どこで
+  　 見つけたんだい？/
+"obj_shop1_slash_Draw_0_gml_471_0": |-
+  \E1＊ …シャドウマントも使わずに！？/
+"obj_shop1_slash_Draw_0_gml_472_0_b": |-
+  \E2＊ ヒッヒッヒ^1…　あんたら３人は
+  　 あのピエロ小僧よりも
+  　 どうかしてるね！/
+"obj_shop1_slash_Draw_0_gml_473_0_b": |-
+  \E0＊ さぞ　おもしろい戦いだった
+  　 だろうねえ！^1　あたしも
+  　 見てみたかったよ…/
+"obj_shop1_slash_Draw_0_gml_498_0": |-
+  \E0＊ ああ。あんたの言いたいことは
+  　 わかるよ。恥ずかしがるこたぁ
+  　 ありゃしない。/
+"obj_shop1_slash_Draw_0_gml_499_0": |-
+  \E3＊ ナイトと戦ったんだろう？
+  　 あいつにゃ　どうやったって
+  　 勝てっこない。みんな知ってる
+  　 ことさね…/
+"obj_shop1_slash_Draw_0_gml_503_0_b": |-
+  \E0＊ シャドウマントを着てたんなら^1　
+  　 勝てないことも
+  　 なかっただろうけども…/
+"obj_shop1_slash_Draw_0_gml_504_0_b": |-
+  \E3＊ シャドウジェムを手に入れるのは^1…
+  　 一筋縄じゃいかないもんさ。/
+"obj_shop1_slash_Draw_0_gml_507_0_b": |-
+  \E1＊ シャドウマントを着てたらば^1　
+  　 少しは勝ち目もあっただろうけども。/
+"obj_shop1_slash_Draw_0_gml_508_0": |-
+  \E0＊ ま^1　済んだことさね^1。
+  　 マントもなけりゃ^1　ジェムもない。/
+"obj_shop1_slash_Draw_0_gml_511_0": |-
+  \E0＊ そんな　がっかりした顔しなさんな^1。
+  　 手に入れたところで^1　なんのイミも
+  　 ないのは　わかってたことさ。/
+"obj_shop1_slash_Draw_0_gml_512_0": |-
+  \E2＊ それでも^1…　さも　イミありげな
+  　 フリをするのは　楽しかったよ。/
+"obj_shop1_slash_Draw_0_gml_513_0": |-
+  \E0＊ ありがとねえ。/%
+"obj_shop1_slash_Draw_0_gml_515_0": |-
+  \E1＊ それは…シャドウジェムかい！？/
+"obj_shop1_slash_Draw_0_gml_516_0": |-
+  \E3＊ ということは…/
+"obj_shop1_slash_Draw_0_gml_529_0": |-
+  \E0＊ おもしろい話をしてあげよう。
+  　 アドソンたちが　うちの店を
+  　 買い上げようとしてねえ。/
+"obj_shop1_slash_Draw_0_gml_530_0": |-
+  \E2＊ だから　カードゲームで
+  　 賭けをしたのさ。/
+"obj_shop1_slash_Draw_0_gml_531_0": |-
+  \E3＊ あいつら^1　一手ごとに負けが
+  　 込んでいって…^1　それでも強情に
+  　 掛け金を倍にしつづけて…/
+"obj_shop1_slash_Draw_0_gml_532_0": |-
+  \E0＊ そのうち　あいつらの店も^1　
+  　 持ち金も^1　着てる服も^1　
+  　 全部　あたしのもんに
+  　 なっちまった。/
+"obj_shop1_slash_Draw_0_gml_533_0": |-
+  \E2＊ ハッハッハ！/
+"obj_shop1_slash_Draw_0_gml_534_0": |-
+  \E0＊ もちろん　最後にゃ笑って
+  　 全部　返してやったけども。/
+"obj_shop1_slash_Draw_0_gml_535_0": |-
+  \E2＊ ちょっと　おどかしてやった
+  　 だけさね。いやぁ　楽しかったねぇ。/
+"obj_shop1_slash_Draw_0_gml_536_0": |-
+  \E3＊ とはいえ^1　あいつらが勝てる
+  　 ルールで　やってたら^1　
+  　 もっと楽しかっただろうけどねぇ。/%
+"obj_shop1_slash_Draw_0_gml_540_0": |-
+  \E0＊ いつまで　いるつもりだい^1？
+  　 おもしろい客だねえ。/
+"obj_shop1_slash_Draw_0_gml_541_0": |-
+  \E2＊ 悪いけども^1　新しい商品も
+  　 入らないし^1　変わったことも
+  　 言わないよ。/
+"obj_shop1_slash_Draw_0_gml_542_0": |-
+  \E3＊ しかたないから　お茶でもいれて
+  　 毛布を出してこようかね^1。
+  　 気がすんだら　帰っとくれ。/%
+"obj_shop1_slash_Draw_0_gml_477_0_b": |-
+  \E2＊ …ま^1　なんにせよ^1…
+  　 あんたらが　シャドウジェムを
+  　 手に入れた…　大事なのは　そこさ！/
+"obj_shop1_slash_Draw_0_gml_478_0_b": |-
+  \E0＊ これで　３つ集まった。
+  　 残りは２つ。それだけあれば
+  　 十分なはずだよ。/
+"obj_shop1_slash_Draw_0_gml_479_0_b": |-
+  \E2＊ …それだけあれば^1　いいものを
+  　 作れる^1。あんたらも　きっと
+  　 気に入るよ^1。がんばることさね^1。
+  　 それじゃ^1　そのジェムは
+  　 あたしが　預かるよ。/%
+"obj_shop1_slash_Draw_0_gml_486_0_b": |-
+  \E0＊ しかし　まあ^1　不思議だねぇ。
+  　 次にあんたらが戦う相手は
+  　 強敵だ。/
+"obj_shop1_slash_Draw_0_gml_487_0": |-
+  \E1＊ 戦う前から^1　あんたらの負けを
+  　 知らせる鐘の音が
+  　 鳴り響いてるようなもんさ。/
+"obj_shop1_slash_Draw_0_gml_488_0": |-
+  \E0＊ それでも　なぜか^1…
+  　 あんたらが　勝つような気がして
+  　 ならないよ。/
+"obj_shop1_slash_Draw_0_gml_489_0": |-
+  \E2＊ この感じが…「希望」ってヤツ
+  　 なのかねえ…？　ハッハッハ^1！
+  　 なんにせよ　おもしろいもんだ！/%

@@ -1,0 +1,159 @@
+"obj_darkcontroller_slash_Draw_0_gml_47_0": |-
+  D$ ~1
+"obj_darkcontroller_slash_Draw_0_gml_74_0": |-
+  CONFIG
+"obj_darkcontroller_slash_Draw_0_gml_82_0": |-
+  OFF
+"obj_darkcontroller_slash_Draw_0_gml_82_1": |-
+  ON
+"obj_darkcontroller_slash_Draw_0_gml_83_0": |-
+  OFF
+"obj_darkcontroller_slash_Draw_0_gml_83_1": |-
+  ON
+"obj_darkcontroller_slash_Draw_0_gml_84_0": |-
+  OFF
+"obj_darkcontroller_slash_Draw_0_gml_84_1": |-
+  ON
+"obj_darkcontroller_slash_Draw_0_gml_87_0": |-
+  OFF
+"obj_darkcontroller_slash_Draw_0_gml_87_1": |-
+  ON
+"obj_darkcontroller_slash_Draw_0_gml_86_0": |-
+  Master Volume
+"obj_darkcontroller_slash_Draw_0_gml_91_0": |-
+  Controls
+"obj_darkcontroller_slash_Draw_0_gml_92_0": |-
+  Simplify VFX
+"obj_darkcontroller_slash_Draw_0_gml_112_0": |-
+  Border
+"obj_darkcontroller_slash_Draw_0_gml_95_0": |-
+  Return to Title
+"obj_darkcontroller_slash_Draw_0_gml_93_0": |-
+  Fullscreen
+"obj_darkcontroller_slash_Draw_0_gml_113_0": |-
+  Function
+"obj_darkcontroller_slash_Draw_0_gml_147_0": |-
+  Button
+"obj_darkcontroller_slash_Draw_0_gml_114_0": |-
+  Key
+"obj_darkcontroller_slash_Draw_0_gml_115_0": |-
+  Gamepad
+"obj_darkcontroller_slash_Draw_0_gml_117_0": |-
+  DOWN
+"obj_darkcontroller_slash_Draw_0_gml_118_0": |-
+  RIGHT
+"obj_darkcontroller_slash_Draw_0_gml_119_0": |-
+  UP
+"obj_darkcontroller_slash_Draw_0_gml_120_0": |-
+  LEFT
+"obj_darkcontroller_slash_Draw_0_gml_121_0": |-
+  CONFIRM
+"obj_darkcontroller_slash_Draw_0_gml_122_0": |-
+  CANCEL
+"obj_darkcontroller_slash_Draw_0_gml_123_0": |-
+  MENU
+"obj_darkcontroller_slash_Draw_0_gml_124_0": |-
+  Reset to default
+"obj_darkcontroller_slash_Draw_0_gml_125_0": |-
+  Finish
+"obj_darkcontroller_slash_Draw_0_gml_207_0": "Attack: "
+"obj_darkcontroller_slash_Draw_0_gml_208_0": "Defense: "
+"obj_darkcontroller_slash_Draw_0_gml_209_0": "Magic: "
+"obj_darkcontroller_slash_Draw_0_gml_212_0": "Guts: "
+"obj_darkcontroller_slash_Draw_0_gml_214_0": "LV1 "
+"obj_darkcontroller_slash_Draw_0_gml_226_0": |-
+  ???
+"obj_darkcontroller_slash_Draw_0_gml_231_0": |-
+  Dog:
+"obj_darkcontroller_slash_Draw_0_gml_236_0": |-
+  ???
+"obj_darkcontroller_slash_Draw_0_gml_239_0": |-
+  LV1 Human#Body contains a#human SOUL.
+"obj_darkcontroller_slash_Draw_0_gml_240_0": |-
+  LV1 Leader#Commands the party#with various ACTs.
+"obj_darkcontroller_slash_Draw_0_gml_241_0": |-
+  LV1 Bed Inspector#Inspects all beds#inexplicably.
+"obj_darkcontroller_slash_Draw_0_gml_272_0_b": |-
+  LV~1 Leader#Commands the party#with various ACTs.
+"obj_darkcontroller_slash_Draw_0_gml_273_0": |-
+  LV~1 Tactician#Commands the party#by ACTs. Sometimes.
+"obj_darkcontroller_slash_Draw_0_gml_274_0": |-
+  LV~1 Bed Inspector#Inspects all beds#inexplicably.
+"obj_darkcontroller_slash_Draw_0_gml_275_0_b": |-
+  LV~1 Moss Finder#Basic moss-finding#abilities.
+"obj_darkcontroller_slash_Draw_0_gml_276_0": |-
+  LV~1 Leader#Commands.
+"obj_darkcontroller_slash_Draw_0_gml_251_0": "Rudeness "
+"obj_darkcontroller_slash_Draw_0_gml_252_0": "Crudeness "
+"obj_darkcontroller_slash_Draw_0_gml_255_0": |-
+  LV1 Mean Girl#Won't do anything#but fight.
+"obj_darkcontroller_slash_Draw_0_gml_256_0": |-
+  LV1 Dark Knight#Does damage using#dark energy.
+"obj_darkcontroller_slash_Draw_0_gml_311_0": "Purple "
+"obj_darkcontroller_slash_Draw_0_gml_312_0": |-
+  Yes
+"obj_darkcontroller_slash_Draw_0_gml_314_0": |-
+  LV~1 Dark Knight#Does damage using#dark energy.
+"obj_darkcontroller_slash_Draw_0_gml_315_0": |-
+  LV~1 Healing Master#Can use ultimate#healing. (Losers!)
+"obj_darkcontroller_slash_Draw_0_gml_316_0": |-
+  LV~1 Moss Enjoyer#Supports those#that find moss.
+"obj_darkcontroller_slash_Draw_0_gml_327_0": |-
+  Kindness
+"obj_darkcontroller_slash_Draw_0_gml_331_0": |-
+  Dogness
+"obj_darkcontroller_slash_Draw_0_gml_272_0": |-
+  LV1 Lonely Prince#Dark-World being.#Has no subjects.
+"obj_darkcontroller_slash_Draw_0_gml_275_0": |-
+  LV1 Prickly Prince#Deals damage with#his rugged scarf.
+"obj_darkcontroller_slash_Draw_0_gml_279_0": |-
+  LV1 Fluffy Prince#Weak^1, but has nice#healing powers.
+"obj_darkcontroller_slash_Draw_0_gml_356_0": |-
+  LV~1 Dark Prince#Dark-World being.#Has friends now.
+"obj_darkcontroller_slash_Draw_0_gml_357_0": |-
+  LV~1 Hug Prince#Receives and#gives many hugs.
+"obj_darkcontroller_slash_Draw_0_gml_358_0": |-
+  LV~1 Pose Prince#Poses for photos#at times.
+"obj_darkcontroller_slash_Draw_0_gml_359_0": |-
+  LV~1 Rude Prince#Friends with a#rude gesturer.
+"obj_darkcontroller_slash_Draw_0_gml_360_0": |-
+  LV~1 Blank Prince#Doesn't even#have a photo.
+"obj_darkcontroller_slash_Draw_0_gml_362_0": "Sweetness "
+"obj_darkcontroller_slash_Draw_0_gml_286_0": |-
+  Fluffiness
+"obj_darkcontroller_slash_Draw_0_gml_382_0": |-
+  LV1 Snowcaster#Might be able to#use some cool moves.
+"obj_darkcontroller_slash_Draw_0_gml_383_0": |-
+  LV~1 Frostmancer#Freezes the enemy.
+"obj_darkcontroller_slash_Draw_0_gml_384_0": |-
+  LV~1 Ice Trancer#Receives pain to#become stronger.
+"obj_darkcontroller_slash_Draw_0_gml_385_0": |-
+  LV~1 Moss Neutral#Neither chaotic nor#lawful to moss.
+"obj_darkcontroller_slash_Draw_0_gml_388_0": "Coldness "
+"obj_darkcontroller_slash_Draw_0_gml_391_0": |-
+  Boldness
+"obj_darkcontroller_slash_Draw_0_gml_453_0": |-
+  (Nothing)
+"obj_darkcontroller_slash_Draw_0_gml_465_0": |-
+  (Nothing)
+"obj_darkcontroller_slash_Draw_0_gml_477_0": |-
+  (Nothing)
+"obj_darkcontroller_slash_Draw_0_gml_585_0": |-
+  ---------
+"obj_darkcontroller_slash_Draw_0_gml_609_0": |-
+  ---------
+"obj_darkcontroller_slash_Draw_0_gml_586_0": "Attack: "
+"obj_darkcontroller_slash_Draw_0_gml_587_0": "Defense: "
+"obj_darkcontroller_slash_Draw_0_gml_588_0": "Magic: "
+"obj_darkcontroller_slash_Draw_0_gml_766_0": |-
+  (No ability.)
+"obj_darkcontroller_slash_Draw_0_gml_803_0": |-
+  (No ability.)
+"obj_darkcontroller_slash_Draw_0_gml_837_0": |-
+  USE
+"obj_darkcontroller_slash_Draw_0_gml_839_0": |-
+  TOSS
+"obj_darkcontroller_slash_Draw_0_gml_841_0": |-
+  KEY
+"obj_darkcontroller_slash_Draw_0_gml_956_0": |-
+  Really throw away the#~1?

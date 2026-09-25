@@ -1,0 +1,214 @@
+"obj_shop1_slash_Draw_0_gml_98_0": |-
+  \E0* Take your time..^1.&* Ain't like it's&better spent.
+"obj_shop1_slash_Draw_0_gml_99_0": |-
+  \E0* Hee hee..^1.&* Welcome, travellers.
+"obj_shop1_slash_Draw_0_gml_106_0": |-
+  Buy
+"obj_shop1_slash_Draw_0_gml_107_0": |-
+  Sell
+"obj_shop1_slash_Draw_0_gml_108_0": |-
+  Talk
+"obj_shop1_slash_Draw_0_gml_109_0": |-
+  Exit
+"obj_shop1_slash_Draw_0_gml_139_0": |-
+  Exit
+"obj_shop1_slash_Draw_0_gml_148_0": |-
+  \E0What do&you like&to buy?
+"obj_shop1_slash_Draw_0_gml_149_0": |-
+  \E2Thanks for&that.
+"obj_shop1_slash_Draw_0_gml_150_0": |-
+  \E0What,&not good&enough?
+"obj_shop1_slash_Draw_0_gml_151_0": |-
+  \E3Not&enough&money.
+"obj_shop1_slash_Draw_0_gml_152_0": |-
+  \E3You're&carrying&too much.
+"obj_shop1_slash_Draw_0_gml_153_0": |-
+  /*
+"obj_shop1_slash_Draw_0_gml_167_0": |-
+  Buy it for
+"obj_shop1_slash_Draw_0_gml_168_0": |2-
+   ?
+"obj_shop1_slash_Draw_0_gml_169_0": |-
+  Yes
+"obj_shop1_slash_Draw_0_gml_170_0": |-
+  No
+"obj_shop1_slash_Draw_0_gml_217_0": |-
+  About yourself
+"obj_shop1_slash_Draw_0_gml_218_0": |-
+  Lightners
+"obj_shop1_slash_Draw_0_gml_220_0": |-
+  Kingdom
+"obj_shop1_slash_Draw_0_gml_224_0": |-
+  About JEVIL
+"obj_shop1_slash_Draw_0_gml_227_0": |-
+  We're legendary
+"obj_shop1_slash_Draw_0_gml_230_0": |-
+  Strange Prisoner
+"obj_shop1_slash_Draw_0_gml_233_0": |-
+  We Won
+"obj_shop1_slash_Draw_0_gml_240_0": |-
+  Exit
+"obj_shop1_slash_Draw_0_gml_244_0": |-
+  \E0Don't have&anything&better&to do.
+"obj_shop1_slash_Draw_0_gml_278_0": |-
+  Sell Items
+"obj_shop1_slash_Draw_0_gml_279_0": |-
+  Sell Weapons
+"obj_shop1_slash_Draw_0_gml_280_0": |-
+  Sell Armor
+"obj_shop1_slash_Draw_0_gml_281_0": |-
+  Return
+"obj_shop1_slash_Draw_0_gml_285_0": |-
+  \E0What kind&of junk&you got?
+"obj_shop1_slash_Draw_0_gml_286_0": |-
+  \E0That's it&for that.
+"obj_shop1_slash_Draw_0_gml_287_0": |-
+  \E3You don't&have&anything!
+"obj_shop1_slash_Draw_0_gml_347_0": |-
+  \E0Alright,&give me&an ITEM.
+"obj_shop1_slash_Draw_0_gml_348_0": |-
+  \E0What WEAPON&will you&give me?
+"obj_shop1_slash_Draw_0_gml_349_0": |-
+  \E0What ARMOR&will you&give me?
+"obj_shop1_slash_Draw_0_gml_350_0": |-
+  \E2Thanks for&that.
+"obj_shop1_slash_Draw_0_gml_351_0": |-
+  \E0No?
+"obj_shop1_slash_Draw_0_gml_352_0": |-
+  \E3Y'think I&WANT that?
+"obj_shop1_slash_Draw_0_gml_353_0": |-
+  \E0That's&nothing.
+"obj_shop1_slash_Draw_0_gml_365_0": |-
+  Sell it for
+"obj_shop1_slash_Draw_0_gml_366_0": |2-
+   ?
+"obj_shop1_slash_Draw_0_gml_367_0": |-
+  Yes
+"obj_shop1_slash_Draw_0_gml_368_0": |-
+  No
+"obj_shop1_slash_Draw_0_gml_395_0": |-
+  \E0* See you again..^1.&* Or not^1.&* Ha ha ha ha.../%
+"obj_shop1_slash_Draw_0_gml_399_0": |-
+  \E0* The name's Seam.&* Pronounced "Shawm."/
+"obj_shop1_slash_Draw_0_gml_400_0": |-
+  \E0* And this is my little Seap^1.&* Ha ha ha ha.../
+"obj_shop1_slash_Draw_0_gml_401_0": |-
+  \E0* Over the years, I've collected odds and ends./
+"obj_shop1_slash_Draw_0_gml_402_0": |-
+  * 'Course, I've no attachment to any of it^1.&* It's just a hobby of mine./
+"obj_shop1_slash_Draw_0_gml_403_0": |-
+  * Around here, you learn to find ways to pass the time...&* ... or go mad like everyone else./%
+"obj_shop1_slash_Draw_0_gml_411_0": |-
+  \E1* Long ago, the Darkners lived in harmony with the Lightners./
+"obj_shop1_slash_Draw_0_gml_412_0": |-
+  \E0* They were like Gods to us.&* Our protectors.&* Our creators.&* Those who gave us purpose.../
+"obj_shop1_slash_Draw_0_gml_413_0": |-
+  \E3* Then, one day we were all locked away in this prison..^1.&* And the Lightners never returned./
+"obj_shop1_slash_Draw_0_gml_414_0": |-
+  \E1* Embittered^1, the King took up arms^1, and aims to take revenge upon the Lightners that left us behind./
+"obj_shop1_slash_Draw_0_gml_415_0": |-
+  \E0* 'Course^1, even among his troops^1, some still distantly hope the Lightners will return.../%
+"obj_shop1_slash_Draw_0_gml_421_0": |-
+  \E0* Historically^1, this land was ruled by the Four Kings^1, from \cYCARD CASTLE\cW to the East./
+"obj_shop1_slash_Draw_0_gml_422_0": |-
+  \E1* But, recently, a \cRstrange knight\cW appeared..^1.&* And three of the kings were locked away./
+"obj_shop1_slash_Draw_0_gml_423_0": |-
+  \E0* The remaining king put him and his strange son into power./
+"obj_shop1_slash_Draw_0_gml_424_0": |-
+  \E1* This land hasn't seen THIS much chaos since.../
+"obj_shop1_slash_Draw_0_gml_425_0": |-
+  \E2* Ha ha ha..^1.&* Well, you don't need to know about THAT./%
+"obj_shop1_slash_Draw_0_gml_429_0": |-
+  \E0* He..^1. was a funny little man^1. Once^1, the court jester^1. I^1, the court magician./
+"obj_shop1_slash_Draw_0_gml_430_0": |-
+  \E1* A friend...^1? Could I consider him a friend...^1? Perhaps^1, perhaps not./
+"obj_shop1_slash_Draw_0_gml_431_0": |-
+  \E2* But he was the only one who matched me in the games we used to play./
+"obj_shop1_slash_Draw_0_gml_432_0": |-
+  \E3* One day^1, he met a strange someone..^1. and since then^1, he began to change./
+"obj_shop1_slash_Draw_0_gml_433_0": |-
+  \E1* He started saying bizarre things that didn't completely make sense -/
+"obj_shop1_slash_Draw_0_gml_434_0": |-
+  \E3* But didn't completely not make sense^1, either./
+"obj_shop1_slash_Draw_0_gml_435_0": |-
+  * Soon^1, he began to see the world as a game^1, and everyone as its participants./
+"obj_shop1_slash_Draw_0_gml_436_0": |-
+  * As the court mage^1, and his only companion^1, I was forced to lock him away.../
+"obj_shop1_slash_Draw_0_gml_437_0": |-
+  \E2* Or^1, rather^1, lock US all away^1, in his own words./
+"obj_shop1_slash_Draw_0_gml_438_0": |-
+  \E1* Since that time^1, the strange words he's said have stuck inside my cotton.../
+"obj_shop1_slash_Draw_0_gml_439_0": |-
+  \E3* And my view of this world has become darker^1, yet darker./
+"obj_shop1_slash_Draw_0_gml_440_0": |-
+  \E2* Reflecting on these old memories^1, I think^1, perhaps ^1- I miss playing games with him./
+"obj_shop1_slash_Draw_0_gml_441_0": |-
+  \E3* And I wonder^1, if I hadn't been asked to lock him up.../
+"obj_shop1_slash_Draw_0_gml_442_0": |-
+  \E2* Would I have found a little more purpose in my life...?/%
+"obj_shop1_slash_Draw_0_gml_448_0": |-
+  \E2* Ha ha ha ..^1.&* So you are the "heroes" who are going to seal our Fountain?/
+"obj_shop1_slash_Draw_0_gml_449_0": |-
+  \E0* Ha, good luck^1.&* It makes no difference to me./
+"obj_shop1_slash_Draw_0_gml_450_0": |-
+  \E3* Neither Light nor Dark hold a future for a Darkner in my condition./%
+"obj_shop1_slash_Draw_0_gml_459_0": |-
+  \E1* Trouble opening the door...?/
+"obj_shop1_slash_Draw_0_gml_460_0": |-
+  \E0* Ha ha ha^1, well^1, whether you can or not^1, it doesn't matter to me./
+"obj_shop1_slash_Draw_0_gml_461_0": |-
+  \E2* But here's a hint ^1- \cYwalk where the stars don't shine\cW./%
+"obj_shop1_slash_Draw_0_gml_472_0": |-
+  \E3* Eh...^1? What are you talking about...^1? A prisoner with an odd manner...?/
+"obj_shop1_slash_Draw_0_gml_473_0": |-
+  \E1* ... No^1, you couldn't possibly be talking about HIM...?/
+"obj_shop1_slash_Draw_0_gml_474_0": |-
+  \E3* ... I see^1.&* After all the trouble I went through to lock him up^1, you want to release him?/
+"obj_shop1_slash_Draw_0_gml_475_0": |-
+  \E0* .../
+"obj_shop1_slash_Draw_0_gml_476_0": |-
+  \E1* Hmm^1, now that you mention it^1, it could be troublesome if he was left alone.../
+"obj_shop1_slash_Draw_0_gml_477_0": |-
+  \E0* Yes^1, perhaps it's better if you Heroes dealt with him now...?/
+"obj_shop1_slash_Draw_0_gml_478_0": |-
+  \E2* After all^1, it's not as if whatever happens^1, will matter in the end./
+"obj_shop1_slash_Draw_0_gml_479_0": |-
+  * Perhaps a little chaos might be fun./
+"obj_shop1_slash_Draw_0_gml_480_0": |-
+  \E0* So then, take this./
+"obj_shop1_slash_Draw_0_gml_482_0": |-
+  \S0* (\cYBROKEN KEY A\cW was added to your \cYKEY ITEMS\cW.)/
+"obj_shop1_slash_Draw_0_gml_483_0": |-
+  * If you're so driven^1, find the other \cYtwo\cW pieces^1, and get someone to \cYfix\cW them./
+"obj_shop1_slash_Draw_0_gml_484_0": |-
+  * I'll even give you a hint - \cYWalk where the stars don't shine\cW./
+"obj_shop1_slash_Draw_0_gml_485_0": |-
+  * Anyhow^1, if you succeed^1, come back here and tell me^1! Good luck!!/
+"obj_shop1_slash_Draw_0_gml_486_0": |-
+  * If you can call THIS luck..^1. No^1, it's more like a curse...!/%
+"obj_shop1_slash_Draw_0_gml_493_0": |-
+  \E1* You already opened the door...?/
+"obj_shop1_slash_Draw_0_gml_494_0": |-
+  \E2* Ha ha ha..^1. I almost wish I could watch^1! Tell me what happens!/
+"obj_shop1_slash_Draw_0_gml_495_0": |-
+  \E2* Ha ha ha..^1. though^1, I suppose if you don't come back^1, I'll understand^1, too!/%
+"obj_shop1_slash_Draw_0_gml_500_0": |-
+  \E1* You defeated him!^1? You REALLY defeated him!?/
+"obj_shop1_slash_Draw_0_gml_501_0": |-
+  \E0* I see..^1. perhaps you three may truly be "Heroes" after all.../
+"obj_shop1_slash_Draw_0_gml_502_0": |-
+  \E1* But JEVIL was just a taste of what you'll face from now on./
+"obj_shop1_slash_Draw_0_gml_503_0": |-
+  \E0* One day soon.../
+"obj_shop1_slash_Draw_0_gml_504_0": |-
+  \E1* You too^1, will begin to realize the futility of your actions./
+"obj_shop1_slash_Draw_0_gml_505_0": |-
+  \E2* Ha ha ha.../
+"obj_shop1_slash_Draw_0_gml_506_0": |-
+  \E0* At that time^1, feel free to come back here^1.&* I'll make you tea.../
+"obj_shop1_slash_Draw_0_gml_507_0": |-
+  \E2* And we can toast..^1. to the end of the world!/%
+"obj_shop1_slash_Draw_0_gml_568_0": |-
+  Space:
+"obj_shop1_slash_Draw_0_gml_571_0": |-
+  NO SPACE

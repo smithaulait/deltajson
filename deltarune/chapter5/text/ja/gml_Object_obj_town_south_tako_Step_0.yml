@@ -1,0 +1,132 @@
+"obj_town_south_tako_slash_Step_0_gml_14_0": |-
+  #スージィに#あげる
+"obj_town_south_tako_slash_Step_0_gml_15_0": |-
+  #ノエルに#あげる
+"obj_town_south_tako_slash_Step_0_gml_16_0": |-
+  じぶんで　たべる
+"obj_town_south_tako_slash_Step_0_gml_17_0": |-
+  いらない
+"obj_town_south_tako_slash_Step_0_gml_20_0": |-
+  ＊ こむぎこの　きじ^1。　
+  　 まるく　やいた　ボール^1。
+  　 タコの。/
+"obj_town_south_tako_slash_Step_0_gml_21_0": |-
+  ＊ たべる^1？　たったの　2Gポッキリ。
+  ＊ じゃなくて^1　たったの　タダ。/
+"obj_town_south_tako_slash_Step_0_gml_40_0": |-
+  \E1＊ …タコ^1？　どんなあじだ^1？
+  　 え？　なまの…/
+"obj_town_south_tako_slash_Step_0_gml_41_0": |-
+  \EK＊ …タマネギみたいな　あじ^1？
+  　 …いらねーよ。/%
+"obj_town_south_tako_slash_Step_0_gml_45_0": |-
+  \EB＊ いらねー。/%
+"obj_town_south_tako_slash_Step_0_gml_54_0": |-
+  \EI＊ ホンモノのタコは
+  　 はいってないよね？/
+"obj_town_south_tako_slash_Step_0_gml_55_0": |-
+  \E4＊ わたしは^1…ぎゅうにゅうの
+  　 かわりに　とうにゅう　のむ
+  　 タイプだから…/
+"obj_town_south_tako_slash_Step_0_gml_57_0": |-
+  \E7＊ とうにゅう^1…ケチャップいり
+  　 ぎゅうにゅうよりは　うまい
+  　 だろな^1。のんだことあるか？/
+"obj_town_south_tako_slash_Step_0_gml_59_0": |-
+  \E8＊ “だれか”に　イチゴ
+  　 ミルクだって　いわれて
+  　 のんだことなら…？/
+"obj_town_south_tako_slash_Step_0_gml_61_0": |-
+  \E8＊ オレも^1　イチゴミルクに
+  　 なるかと　おもって
+  　 やったぜ！/
+"obj_town_south_tako_slash_Step_0_gml_63_0": |-
+  \EQ＊ う…うん^1。(ちゃんと
+  　 つたわってないっぽいけど^1…
+  　 カワイイから　いっか…)/%
+"obj_town_south_tako_slash_Step_0_gml_67_0": |-
+  \EI＊ (どれだけ　おなかが
+  　 へってたって^1　わたしは
+  　 これは　たべないよ？)/%
+"obj_town_south_tako_slash_Step_0_gml_79_0": |-
+  ＊ (ひとくち　かじった^1…
+  　 ん^1？　なかから　しめった
+  　 おみくじの　かみが　でてきた)/
+"obj_town_south_tako_slash_Step_0_gml_80_0": |-
+  ＊ (「わりびきコードを　おためし
+  　 ください：B A L L」)/%
+"obj_town_south_tako_slash_Step_0_gml_84_0": |-
+  ＊ (１にちの　ボールせっしゅ
+  　 きょようりょうを　こえた)/%
+"obj_town_south_tako_slash_Step_0_gml_89_0": |-
+  ＊ タコ　い　や？
+  　 の。やいた　　の。/%
+"obj_town_south_tako_slash_Step_0_gml_112_0": |-
+  \E7＊ お！^1　スライスレモン
+  　 とりほうだいだぜ！/%
+"obj_town_south_tako_slash_Step_0_gml_134_0": |-
+  \EA＊ みてろよ…？/
+"obj_town_south_tako_slash_Step_0_gml_135_0": |-
+  \E7＊ まず^1　とりほうだいの
+  　 スライスレモンを
+  　 どっさり　とって…/
+"obj_town_south_tako_slash_Step_0_gml_136_0": |-
+  \E2＊ のみほうだいの
+  　 レモンすいの　なかに
+  　 しぼるだろ…？/
+"obj_town_south_tako_slash_Step_0_gml_137_0": |-
+  \E9＊ んで^1　とりほうだいの
+  　 さとうを　いれたら…/%
+"obj_town_south_tako_slash_Step_0_gml_176_0": |-
+  \E2＊ のみほうだいの
+  　 レモネードの　かんせいだ。/%
+"obj_town_south_tako_slash_Step_0_gml_202_0": |-
+  \EL＊ ヤベえだろ^1？
+  　 ぜんぶ　タダだぜ？/%
+"obj_town_south_tako_slash_Step_0_gml_230_0": |-
+  \E0＊ この　やたい^1　
+  　 なんか　ヘンだったぜ。/
+"obj_town_south_tako_slash_Step_0_gml_231_0": |-
+  \E1＊ …みせばん　してるヤツが
+  　 だれも　いなくてさ。/
+"obj_town_south_tako_slash_Step_0_gml_232_0": |-
+  \E0＊ はやじまい　したのかもな^1。
+  　 しらねーけど。/%
+"obj_town_south_tako_slash_Step_0_gml_248_0": |-
+  #あてる
+"obj_town_south_tako_slash_Step_0_gml_249_0": |-
+  #あてない
+"obj_town_south_tako_slash_Step_0_gml_254_0": |-
+  ＊ …ことしは^1　つかっていい　おカネの
+  　 がくを　きめたんだ。/
+"obj_town_south_tako_slash_Step_0_gml_255_0": |-
+  ＊ …ぜんがく　なにに　つかったか
+  　 あてられる？/
+"obj_town_south_tako_slash_Step_0_gml_272_0": |-
+  ＊ おこづかいの　のこり　ぜんぶが…^1！
+  　 “どーなつ”てるの…/
+"obj_town_south_tako_slash_Step_0_gml_273_0": |-
+  ＊ ボクの　てもとには^1…こむぎこの
+  　 きじを　まるくしたものしか…
+  　 しか^1…しか…/
+"obj_town_south_tako_slash_Step_0_gml_275_0": |-
+  \EH＊ うぉい^1！　てめえ^1！
+  　 ノエルは　シカじゃねえ！/
+"obj_town_south_tako_slash_Step_0_gml_277_0": |-
+  \E4＊ (スージィ^1…
+  　 わたしのことじゃないと
+  　 おもうよ…)/%
+"obj_town_south_tako_slash_Step_0_gml_281_0": |-
+  ＊ これに　2Gも　だしてしまった^1…
+  　 …っていうか　ボク^1　Gなんて
+  　 もってたんだ！？/%
+"obj_town_south_tako_slash_Step_0_gml_294_0": |-
+  ＊ こういうことが　あると
+  　 ホリデーが　きらいになるよ…/
+"obj_town_south_tako_slash_Step_0_gml_296_0": |-
+  \EK＊ (…え^1。は！^1？
+  　 いま　悪口言われた…！？)/%
+"obj_town_south_tako_slash_Step_0_gml_307_0": |-
+  ＊ マルっきり　たのしいね！/
+"obj_town_south_tako_slash_Step_0_gml_308_0": |-
+  ＊ おトク^1　おトク^1　おトク！/%

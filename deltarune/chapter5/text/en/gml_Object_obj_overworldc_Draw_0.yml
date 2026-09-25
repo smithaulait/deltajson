@@ -1,0 +1,72 @@
+"obj_overworldc_slash_Draw_0_gml_37_0": |-
+  HP  ~1/~2
+"obj_overworldc_slash_Draw_0_gml_38_0": |-
+  LV  ~1
+"obj_overworldc_slash_Draw_0_gml_40_0": |-
+  $   ~1
+"obj_overworldc_slash_Draw_0_gml_42_0": |-
+  ITEM
+"obj_overworldc_slash_Draw_0_gml_43_0": |-
+  STAT
+"obj_overworldc_slash_Draw_0_gml_44_0": |-
+  CELL
+"obj_overworldc_slash_Draw_0_gml_52_0": |-
+  USE
+"obj_overworldc_slash_Draw_0_gml_53_0": |-
+  INFO
+"obj_overworldc_slash_Draw_0_gml_54_0": |-
+  DROP
+"obj_overworldc_slash_Draw_0_gml_66_0": |-
+  "~1"
+"obj_overworldc_slash_Draw_0_gml_68_0": |-
+  LV  ~1
+"obj_overworldc_slash_Draw_0_gml_69_0": |-
+  HP  ~1 / ~2
+"obj_overworldc_slash_Draw_0_gml_71_0": |-
+  AT  ~1 (~2)
+"obj_overworldc_slash_Draw_0_gml_72_0": |-
+  DF  ~1 (~2)
+"obj_overworldc_slash_Draw_0_gml_73_0": |-
+  None
+"obj_overworldc_slash_Draw_0_gml_74_0": |-
+  None
+"obj_overworldc_slash_Draw_0_gml_75_0": |-
+  Pencil
+"obj_overworldc_slash_Draw_0_gml_76_0": |-
+  Halloween Pencil
+"obj_overworldc_slash_Draw_0_gml_77_0": |-
+  Lucky Pencil
+"obj_overworldc_slash_Draw_0_gml_78_0_b": |-
+  Eraser
+"obj_overworldc_slash_Draw_0_gml_79_0": |-
+  Mech. Pencil
+"obj_overworldc_slash_Draw_0_gml_83_0_b": |-
+  Holiday Pencil
+"obj_overworldc_slash_Draw_0_gml_84_0": |-
+  CactusNeedle
+"obj_overworldc_slash_Draw_0_gml_85_0": |-
+  BlackShard
+"scr_litemname_slash_scr_litemname_gml_24_0": |-
+  QuillPen
+"obj_overworldc_slash_Draw_0_gml_91_0": |-
+  Pencil2
+"obj_overworldc_slash_Draw_0_gml_92_0_b": |-
+  Petal
+"obj_overworldc_slash_Draw_0_gml_78_0": |-
+  Bandage
+"obj_overworldc_slash_Draw_0_gml_81_0_b": |-
+  Wristwatch
+"obj_overworldc_slash_Draw_0_gml_81_0": |-
+  WEAPON: ~1
+"obj_overworldc_slash_Draw_0_gml_82_0": |-
+  ARMOR: ~1
+"obj_overworldc_slash_Draw_0_gml_83_0": |-
+  MONEY: ~1
+"obj_overworldc_slash_Draw_0_gml_88_0": |-
+  ???
+"obj_overworldc_slash_Draw_0_gml_95_0": |-
+  Since#Chapter ~1
+"obj_overworldc_slash_Draw_0_gml_92_0": |-
+  EXP: ~1
+"obj_overworldc_slash_Draw_0_gml_113_0": |-
+  NEXT: ~1

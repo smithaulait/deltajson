@@ -1,0 +1,501 @@
+"obj_town_north_catty_house_slash_Step_0_gml_44_0": |-
+  #キング？#クイーン？
+"obj_town_north_catty_house_slash_Step_0_gml_45_0": |-
+  #ちがいます
+"obj_town_north_catty_house_slash_Step_0_gml_50_0": |-
+  ＊ やあ！^1　ごきんジャー　しょくん^1！
+  　 キングとクイーンの
+  　 とうひょうに　きたのかな？/
+"obj_town_north_catty_house_slash_Step_0_gml_69_0": |-
+  ＊ ええっ^1！　キミ^1　パパから
+  　 きいてないかい？^1　じゃあ
+  　 ボクパパが　おしえてあげよう。/
+"obj_town_north_catty_house_slash_Step_0_gml_70_0": |-
+  ＊ トーヒョーヨーシに　きにゅうして^1　
+  　 ハコに　いれて^1　シューケイ
+  　 するんだ。/
+"obj_town_north_catty_house_slash_Step_0_gml_71_0": |-
+  ＊ そして^1　こんや　「ホームタウン・
+  　 ホリデーハウス・ステージ」にて…/
+"obj_town_north_catty_house_slash_Step_0_gml_72_0": |-
+  ＊ キャロルちょうちょうが　２人の
+  　 こううんな　こいびとたちを
+  　 キングとクイーンに　しめいする！/
+"obj_town_north_catty_house_slash_Step_0_gml_73_0": |-
+  ＊ その２人は　「カップルパレード」の
+  　 せんとうを　あるくんだよ。/
+"obj_town_north_catty_house_slash_Step_0_gml_74_0": |-
+  ＊ このまちの　カップルぜんいんが
+  　 てをつないで　まちやくばまで
+  　 あるく　パレードさ。/
+"obj_town_north_catty_house_slash_Step_0_gml_75_0": |-
+  ＊ ルーディの　ビューテフルな
+  　 イルミニャーションで
+  　 てらされた　まちをね！/
+"obj_town_north_catty_house_slash_Step_0_gml_77_0": |-
+  \Ew＊ マジか。/
+"obj_town_north_catty_house_slash_Step_0_gml_79_0": |-
+  \E6＊ スージィ^1　
+  　 しらなかった？/
+"obj_town_north_catty_house_slash_Step_0_gml_81_0": |-
+  \EM＊ いろんなゲームして
+  　 でみせで　かいものする
+  　 だけだと　おもってた。/
+"obj_town_north_catty_house_slash_Step_0_gml_82_0": |-
+  \Ev＊ まあでも^1　パレード^1？　も
+  　 おもしろそうだな^1。
+  　 みるのはさ。/
+"obj_town_north_catty_house_slash_Step_0_gml_84_0": |-
+  \EQ＊ そ^1…そうだよね^1。
+  　 みるの^1　たのしそう
+  　 だよね…！/%
+"obj_town_north_catty_house_slash_Step_0_gml_95_0": |-
+  ＊ おにいちゃんの　ジョンくんみたいに
+  　 ロマンチックなタイプじゃないなら…/
+"obj_town_north_catty_house_slash_Step_0_gml_96_0": |-
+  ＊ ともだちと　さんかしたっていい^1！
+  　 おじさんも^1　うちの　かみさんと
+  　 ともだちとして　さんかするよ！/%
+"obj_town_north_catty_house_slash_Step_0_gml_140_0": |-
+  ＊ (キングと　クイーンの
+  　 とうひょうばこだ)/
+"obj_town_north_catty_house_slash_Step_0_gml_142_0": |-
+  \E0＊ …どーでもいいな^1。
+  　 えらばれたら　なんか
+  　 もらえんのか？/
+"obj_town_north_catty_house_slash_Step_0_gml_144_0": |-
+  \E3＊ たしか^1…かんむりを
+  　 もらえるはずだけど？/
+"obj_town_north_catty_house_slash_Step_0_gml_146_0": |-
+  \E7＊ マジ^1？　っしゃ^1　
+  　 ふたりとも　オレを
+  　 キングに　えらんでくれ。/
+"obj_town_north_catty_house_slash_Step_0_gml_148_0": |-
+  \E6＊ (ク^1…クリス^1…　わたしを
+  　 クイーンに　えらんで
+  　 くれる？)/%
+"obj_town_north_catty_house_slash_Step_0_gml_188_0": |-
+  #クリス
+"obj_town_north_catty_house_slash_Step_0_gml_189_0": |-
+  #スージィ
+"obj_town_north_catty_house_slash_Step_0_gml_190_0": |-
+  ノエル
+"obj_town_north_catty_house_slash_Step_0_gml_196_0": |-
+  バードリー
+"obj_town_north_catty_house_slash_Step_0_gml_200_0": |-
+  ＊ (とうひょうようしを　てにとった)/
+"obj_town_north_catty_house_slash_Step_0_gml_201_0": |-
+  ＊ (だれを　キングに　えらぶ？)/
+"obj_town_north_catty_house_slash_Step_0_gml_228_0": |-
+  クリス
+"obj_town_north_catty_house_slash_Step_0_gml_231_0": |-
+  スージィ
+"obj_town_north_catty_house_slash_Step_0_gml_234_0": |-
+  ノエル
+"obj_town_north_catty_house_slash_Step_0_gml_237_0": |-
+  バードリー
+"obj_town_north_catty_house_slash_Step_0_gml_245_0": |-
+  #クリス
+"obj_town_north_catty_house_slash_Step_0_gml_246_0": |-
+  #スージィ
+"obj_town_north_catty_house_slash_Step_0_gml_247_0": |-
+  ノエル
+"obj_town_north_catty_house_slash_Step_0_gml_248_0": |-
+  クイーン
+"obj_town_north_catty_house_slash_Step_0_gml_251_0": |-
+  ＊ (キングの　らんに
+  　 ~1と　かいた)/
+"obj_town_north_catty_house_slash_Step_0_gml_252_0": |-
+  ＊ (だれを　クイーンに　えらぶ？)/
+"obj_town_north_catty_house_slash_Step_0_gml_278_0": |-
+  クリス
+"obj_town_north_catty_house_slash_Step_0_gml_281_0": |-
+  スージィ
+"obj_town_north_catty_house_slash_Step_0_gml_284_0": |-
+  ノエル
+"obj_town_north_catty_house_slash_Step_0_gml_287_0": |-
+  クイーン
+"obj_town_north_catty_house_slash_Step_0_gml_295_0": |-
+  ノエルに#みせてから#とうひょうする
+"obj_town_north_catty_house_slash_Step_0_gml_296_0": |-
+  ノエルに#みせずに#とうひょうする
+"obj_town_north_catty_house_slash_Step_0_gml_301_0": |-
+  ＊ (クイーンの　らんに
+  　 ~1と　かいた)/
+"obj_town_north_catty_house_slash_Step_0_gml_302_0": |-
+  ＊ (とうひょうようしを　どうする？)/
+"obj_town_north_catty_house_slash_Step_0_gml_410_0": |-
+  \E4＊ (どうも　ありがとう^1…
+  　 うれしい^1。ちゃんと…)/
+"obj_town_north_catty_house_slash_Step_0_gml_411_0": |-
+  \E5＊ (…)/
+"obj_town_north_catty_house_slash_Step_0_gml_412_0": |-
+  \EE＊ (クリス！？)/
+"obj_town_north_catty_house_slash_Step_0_gml_413_0": |-
+  \EH＊ (わたしのこと
+  　 からかってるでしょ！)/
+"obj_town_north_catty_house_slash_Step_0_gml_414_0": |-
+  \EI＊ (わざわざ
+  　 「ノエルいがい」って
+  　 かいて…)/
+"obj_town_north_catty_house_slash_Step_0_gml_415_0": |-
+  \EH＊ (スージィと　クリスが
+  　 ハイタッチしてる
+  　 えまで　かいて…！)/
+"obj_town_north_catty_house_slash_Step_0_gml_416_0": |-
+  \E8＊ (だったら^1…わたしも
+  　 おかえしに…！)/
+"obj_town_north_catty_house_slash_Step_0_gml_418_0": |-
+  \E6＊ ノエル？^1　それ^1　おはかの
+  　 え　か？^1　「クリス」って
+  　 かいてあるし。/
+"obj_town_north_catty_house_slash_Step_0_gml_420_0": |-
+  \EM＊ えっ！^1？　こ…これは…^1！
+  　 ダメ！^1　みないで！/
+"obj_town_north_catty_house_slash_Step_0_gml_422_0": |-
+  \EC＊ んだよ…^1　え　かいて
+  　 いいなんて　きいてねーぞ…/%
+"obj_town_north_catty_house_slash_Step_0_gml_437_0": |-
+  \E2＊ ク…リス^1？　どどどうして^1…
+  　 わたしたちの　なまえを
+  　 かいてるの…？/
+"obj_town_north_catty_house_slash_Step_0_gml_438_0": |-
+  \E8＊ …しかも^1…わたしの
+  　 なまえのスペル^1　
+  　 まちがってるし…/
+"obj_town_north_catty_house_slash_Step_0_gml_439_0": |-
+  \E5＊ …/
+"obj_town_north_catty_house_slash_Step_0_gml_440_0": |-
+  \E9＊ (ちっちゃいころに…)/
+"obj_town_north_catty_house_slash_Step_0_gml_441_0": |-
+  \E5＊ (アズくんと　ディセおねえ
+  　 ちゃんが　キングと
+  　 クイーンを　ねらってて…)/
+"obj_town_north_catty_house_slash_Step_0_gml_442_0": |-
+  \E9＊ (クリスと　わたしは^1　
+  　 ふたりに　とうひょうする
+  　 はずだったけど…)/
+"obj_town_north_catty_house_slash_Step_0_gml_443_0": |-
+  \Ed＊ (わたしが　クリスにいって^1…
+  　 じぶんたちの　なまえを
+  　 かいたこと　あったよね)/
+"obj_town_north_catty_house_slash_Step_0_gml_444_0": |-
+  \E3＊ (バカだけど^1…わたし^1…
+  　 ホントに　えらばれるんじゃ
+  　 ないかって　おもってた…)/
+"obj_town_north_catty_house_slash_Step_0_gml_445_0": |-
+  \E9＊ (おねえちゃんとアズくんの
+  　 なまえが　よばれたとき^1　
+  　 わたし　ないたよね)/
+"obj_town_north_catty_house_slash_Step_0_gml_446_0": |-
+  \Ee＊ (…ホント^1　バカみたい^1。
+  　 わたしたちが　えらばれる
+  　 わけないのに)/
+"obj_town_north_catty_house_slash_Step_0_gml_447_0": |-
+  \Ed＊ (じぶんたちの　なまえすら
+  　 まともに　かけなかった
+  　 のに…)/
+"obj_town_north_catty_house_slash_Step_0_gml_448_0": |-
+  \Ee＊ (…)/
+"obj_town_north_catty_house_slash_Step_0_gml_449_0": |-
+  \Ed＊ (「ノエル・ホラデー」と
+  　 「クリス・ドリームー」)/
+"obj_town_north_catty_house_slash_Step_0_gml_450_0": |-
+  \Ed＊ (きょうは　わたしも^1　
+  　 そのなまえを　かくよ)/
+"obj_town_north_catty_house_slash_Step_0_gml_451_0": |-
+  \Ed＊ (“あのコたち”が　
+  　 えらばれてほしいから…)/%
+"obj_town_north_catty_house_slash_Step_0_gml_466_0": |-
+  \E4＊ (ありがとう　クリス^1…
+  　 うれし…)/
+"obj_town_north_catty_house_slash_Step_0_gml_467_0": |-
+  \E5＊ (…)/
+"obj_town_north_catty_house_slash_Step_0_gml_468_0": |-
+  \EE＊ (クリス！？)/
+"obj_town_north_catty_house_slash_Step_0_gml_469_0": |-
+  \EH＊ (わたしのこと　からかってる
+  　 でしょ！？)/
+"obj_town_north_catty_house_slash_Step_0_gml_470_0": |-
+  \EI＊ (わざわざ
+  　 「ノエルは　ナシ」って
+  　 かいて…)/
+"obj_town_north_catty_house_slash_Step_0_gml_471_0": |-
+  \EK＊ (２人のスージィが
+  　 ハイタッチしてる
+  　 え　まで…！)/
+"obj_town_north_catty_house_slash_Step_0_gml_472_0": |-
+  \E3＊ (…)/
+"obj_town_north_catty_house_slash_Step_0_gml_473_0": |-
+  \E2＊ (でも^1…わたしも　よく
+  　 かんがえたら…)/
+"obj_town_north_catty_house_slash_Step_0_gml_474_0": |-
+  \E6＊ (どんな　かたちにせよ
+  　 スージィが　えらばれて
+  　 ほしいな…)/
+"obj_town_north_catty_house_slash_Step_0_gml_475_0": |-
+  \ER＊ (よし^1！　わたしも
+  　 キングとクイーンの　らんに
+  　 スージィの　なまえかく！)/
+"obj_town_north_catty_house_slash_Step_0_gml_477_0": |-
+  \E6＊ おい！^1　なんで
+  　 キングとクイーン
+  　 りょうほう　オレなんだよ？/
+"obj_town_north_catty_house_slash_Step_0_gml_479_0": |-
+  \EL＊ え？^1　えっと^1…それは…/
+"obj_town_north_catty_house_slash_Step_0_gml_481_0": |-
+  \EK＊ チッ^1。オレも　そうすりゃ
+  　 よかったぜ…^1　かんむり２つ
+  　 もらえたのに…/%
+"obj_town_north_catty_house_slash_Step_0_gml_496_0": |-
+  \E4＊ (ありがとう　クリス)/
+"obj_town_north_catty_house_slash_Step_0_gml_497_0": |-
+  \E3＊ (おれいに^1…
+  　 インターネットが
+  　 ふっきゅうしたら…)/
+"obj_town_north_catty_house_slash_Step_0_gml_498_0": |-
+  \E2＊ (ブログで　メンションして
+  　 100クズポイント
+  　 あげるね！)/
+"obj_town_north_catty_house_slash_Step_0_gml_499_0": |-
+  \E8＊ (…でも　もし^1…
+  　 え　まって^1！
+  　 なんで　けすの！？)/%
+"obj_town_north_catty_house_slash_Step_0_gml_514_0": |-
+  \E4＊ (ありがとう　クリス)/
+"obj_town_north_catty_house_slash_Step_0_gml_515_0": |-
+  \E3＊ (…なまえかく
+  　 じゅんばん　まちがえてる
+  　 から…)/
+"obj_town_north_catty_house_slash_Step_0_gml_516_0": |-
+  \E8＊ (あんまりイミないけど…)/%
+"obj_town_north_catty_house_slash_Step_0_gml_531_0": |-
+  \E3＊ (ありがとう^1　クリス)/
+"obj_town_north_catty_house_slash_Step_0_gml_532_0": |-
+  \E2＊ (ホントは^1…
+  　 スージィと　いっしょに
+  　 えらばれたかったけど…)/
+"obj_town_north_catty_house_slash_Step_0_gml_533_0": |-
+  \E4＊ (どんな１ぴょうも
+  　 うれしいよ)/%
+"obj_town_north_catty_house_slash_Step_0_gml_548_0": |-
+  \E3＊ …クリス^1？　そんなふうに
+  　 かいたら…/
+"obj_town_north_catty_house_slash_Step_0_gml_549_0": |-
+  \E2＊ かみが　やぶけちゃうよ…？/
+"obj_town_north_catty_house_slash_Step_0_gml_550_0": |-
+  \E4＊ ほら　かして^1！
+  　 わたしが　かきなおして
+  　 あげる！/
+"obj_town_north_catty_house_slash_Step_0_gml_551_0": |-
+  \E3＊ スージィが　クイーンで^1…
+  　 キングが…/
+"obj_town_north_catty_house_slash_Step_0_gml_552_0": |-
+  \EG＊ /
+"obj_town_north_catty_house_slash_Step_0_gml_554_0": |-
+  \E6＊ …ノエル^1？
+  　 なんで　とうひょうようし
+  　 やぶってんだ？/
+"obj_town_north_catty_house_slash_Step_0_gml_556_0": |-
+  \EK＊ う…うん！^1　ク…クリスを
+  　 てつだってるだけ！/%
+"obj_town_north_catty_house_slash_Step_0_gml_573_0": |-
+  \EG＊ …/
+"obj_town_north_catty_house_slash_Step_0_gml_574_0": |-
+  \EH＊ クリス^1？　なんで…/
+"obj_town_north_catty_house_slash_Step_0_gml_575_0": |-
+  \EI＊ …わたしと　バードリーを
+  　 えらんでるの…？/%
+"obj_town_north_catty_house_slash_Step_0_gml_622_0": |-
+  \E3＊ なんだって！^1？/
+"obj_town_north_catty_house_slash_Step_0_gml_623_0": |-
+  \EJ＊ ボクを　キングにするのは^1　
+  　 きゃっかんてきにみて
+  　 ただしい　こうどうだ。/
+"obj_town_north_catty_house_slash_Step_0_gml_624_0": |-
+  \E3＊ でも^1　ノエルを
+  　 クイーンに…？/
+"obj_town_north_catty_house_slash_Step_0_gml_625_0": |-
+  \E9＊ キミは　そのまえに^1　
+  　 ちゃんと　かくにんを
+  　 とったのかい？/
+"obj_town_north_catty_house_slash_Step_0_gml_627_0": |-
+  \E6＊ バ^1…バードリー…^1！
+  　 わかってくれるの…？/
+"obj_town_north_catty_house_slash_Step_0_gml_629_0": |-
+  \EI＊ とうぜんだとも。/%
+"obj_town_north_catty_house_slash_Step_0_gml_649_0": |-
+  \EA＊ クリス^1　そんなことをしては^1　
+  　 ボクに　あこがれる　ほかの
+  　 コたちが　きのどくだ！/
+"obj_town_north_catty_house_slash_Step_0_gml_650_0": |-
+  \EE＊ ボクのクイーンになる
+  　 チャンスは^1　“みんな”に
+  　 びょうどうに　ある！/
+"obj_town_north_catty_house_slash_Step_0_gml_651_0": |-
+  \EL＊ まず　だいいちに^1　
+  　 ムネの　ドキを　せいかくに
+  　 かぞえるべし！/
+"obj_town_north_catty_house_slash_Step_0_gml_652_0": |-
+  \E7＊ そうして　はじめて^1　
+  　 ハートの　えもじを　そえて
+  　 とうひょうが　できるんだ。/
+"obj_town_north_catty_house_slash_Step_0_gml_653_0": |-
+  \EJ＊ クリス^1。
+  　 みんしゅしゅぎと
+  　 いうのはね…/
+"obj_town_north_catty_house_slash_Step_0_gml_654_0": |-
+  \E7＊ キングと　クイーンを^1　
+  　 ただしく　えらぶこと
+  　 なのだよ。/%
+"obj_town_north_catty_house_slash_Step_0_gml_670_0": |-
+  \E9＊ ノエル？/
+"obj_town_north_catty_house_slash_Step_0_gml_672_0": |-
+  \E1＊ …なに？/
+"obj_town_north_catty_house_slash_Step_0_gml_674_0": |-
+  \E8＊ キミは　じぶんのために^1　
+  　 クリスに　ズルをさせたね^1？
+  　 はずべき　こういだ。/
+"obj_town_north_catty_house_slash_Step_0_gml_676_0": |-
+  \EK＊ は？？/%
+"obj_town_north_catty_house_slash_Step_0_gml_705_0": |-
+  \EK＊ …はあぁ？？/%
+"obj_town_north_catty_house_slash_Step_0_gml_710_0": |-
+  \E9＊ クリス^1…こんなことは^1　
+  　 わざわざ　せつめいする
+  　 までも　ないことだ…/
+"obj_town_north_catty_house_slash_Step_0_gml_711_0": |-
+  \EA＊ こうどうするまえに
+  　 あいての　きもちを
+  　 かんがえなくてはいけない。/
+"obj_town_north_catty_house_slash_Step_0_gml_712_0": |-
+  \EM＊ ノエルは　いま^1…
+  　 スージィと　「よい
+  　 かんじ」だ。/%
+"obj_town_north_catty_house_slash_Step_0_gml_728_0": |-
+  \EE＊ つまり^1　このふたりを
+  　 えらんでやるのが
+  　 なにより　ただしいことさ。/
+"obj_town_north_catty_house_slash_Step_0_gml_730_0": |-
+  \E4＊ (バードリー^1…
+  　 ありがとう…)/
+"obj_town_north_catty_house_slash_Step_0_gml_732_0": |-
+  \E5＊ ふたりを　クイーンにして^1　
+  　 ボクが　キングになろう。/
+"obj_town_north_catty_house_slash_Step_0_gml_733_0": |-
+  \E7＊ ボクは　ただの
+  　 カイライさ。/
+"obj_town_north_catty_house_slash_Step_0_gml_734_0": |-
+  \EE＊ ここに　せんげんしよう^1。
+  　 ボクがキングに　えらばれた
+  　 あかつきには…/
+"obj_town_north_catty_house_slash_Step_0_gml_735_0": |-
+  \EM＊ …この２人の　うつくしい
+  　 むすめたちの　あいを
+  　 しゅくふくすることを。/
+"obj_town_north_catty_house_slash_Step_0_gml_736_0": |-
+  \EF＊ かのじょたちが　ボクに
+  　 キスしたいのならば^1　それは
+  　 また　べつの　もんだいさ。/
+"obj_town_north_catty_house_slash_Step_0_gml_737_0": |-
+  \E7＊ さらばだ^1　クリス。/%
+"obj_town_north_catty_house_slash_Step_0_gml_774_0": |-
+  \EK＊ …はあぁ？？/%
+"obj_town_north_catty_house_slash_Step_0_gml_804_0": |-
+  \E3＊ (クリス？^1？　クイーンの
+  　 らんに^1　「クイーン」って
+  　 かいてあるよ…！？)/
+"obj_town_north_catty_house_slash_Step_0_gml_806_0": |-
+  \E9＊ がはは^1！　さすがだな^1！
+  　 オレも　おなじこと
+  　 かいたぜ！/
+"obj_town_north_catty_house_slash_Step_0_gml_807_0": |-
+  \E2＊ クイーンっつったら
+  　 あの「クイーン」だろ。/
+"obj_town_north_catty_house_slash_Step_0_gml_809_0": |-
+  \EH＊ え…ええ～…？^1　じゃあ
+  　 わたしも　「キング」って
+  　 かいたほうが　よかった？/
+"obj_town_north_catty_house_slash_Step_0_gml_811_0": |-
+  \EK＊ いや^1　あいつは
+  　 ムカつくからいい^1。もう
+  　 かんむり　もってるしな。/%
+"obj_town_north_catty_house_slash_Step_0_gml_844_0": |-
+  ＊ (とうひょうずみだ)/%
+"obj_town_north_catty_house_slash_Step_0_gml_864_0": |-
+  ぜ…ぜんぜん
+  いいよ！！
+"obj_town_north_catty_house_slash_Step_0_gml_868_0": |-
+  ＊ みて^1！　ノエル^1！　ボク！
+  　 は^1！　キングと　クイーン
+  　 に^1！　なる！　よ！/
+"obj_town_north_catty_house_slash_Step_0_gml_870_0": |-
+  \EI＊ ジョッキントン^1！
+  　 そうなんだ！^1　にんきもの
+  　 だもんね！/
+"obj_town_north_catty_house_slash_Step_0_gml_872_0": |-
+  ＊ ノエル！^1　がいつも！^1　
+  　 ボクに　とうひょう！^1　して
+  　 くれるおかげ！^1　ハハ！/
+"obj_town_north_catty_house_slash_Step_0_gml_873_0": |-
+  ＊ ありがトリリオン！/
+"obj_town_north_catty_house_slash_Step_0_gml_875_0": |-
+  \EG＊ …/
+"obj_town_north_catty_house_slash_Step_0_gml_877_0": |-
+  ＊ ありがトリリオン
+  　 プラス１！
+  　 \f0/
+"obj_town_north_catty_house_slash_Step_0_gml_878_0": |-
+  ＊ ハハッ^1！　このイベント^1！
+  　 は！…/
+"obj_town_north_catty_house_slash_Step_0_gml_879_0": |-
+  ＊ ボクが　ヒゲを　はやす
+  　 じしんを　つける！^1　
+  　 きっかけに　なる！/
+"obj_town_north_catty_house_slash_Step_0_gml_880_0": |-
+  ＊ ボクの　せいしゅんを！^1　
+  　 いろどる１ページ！^1　だ！/
+"obj_town_north_catty_house_slash_Step_0_gml_881_0": |-
+  ＊ たいへん！　だ^1！　もう
+  　 さっそく　じつげん　しつつ
+  　 ある^1！　かんじる！/%
+"obj_town_north_catty_house_slash_Step_0_gml_911_0": |-
+  ＊ ボク！^1　ヒゲ！^1　を！^1　
+  　 そらなきゃ！^1　いけない！/
+"obj_town_north_catty_house_slash_Step_0_gml_912_0": |-
+  ＊ けど^1　ボク！^1　のヒゲは
+  　 はえてしまった^1！　とりけす^1
+  　 ことは！^1　できない。/%
+"obj_town_north_catty_house_slash_Step_0_gml_925_0": |-
+  ＊ (キングと　クイーンの
+  　 フォトスポットだ)/%
+"obj_town_north_catty_house_slash_Step_0_gml_938_0": |-
+  \EA＊ キングと　クイーンの
+  　 とうひょう^1　
+  　 オモロかったぜ。/
+"obj_town_north_catty_house_slash_Step_0_gml_939_0": |-
+  \E2＊ オレと　ノエルの　なまえと^1　
+  　 やべェイラストも　かいて
+  　 やった。/
+"obj_town_north_catty_house_slash_Step_0_gml_940_0": |-
+  \E9＊ オレの　くちから「ほうしゃ
+  　 ねっせん」でてるとこを^1　
+  　 みどりのペンで　かいたぜ。/
+"obj_town_north_catty_house_slash_Step_0_gml_941_0": |-
+  \ED＊ …ノエルは^1　なに　かいたか
+  　 みしてくんなかった
+  　 けどな。/
+"obj_town_north_catty_house_slash_Step_0_gml_942_0": |-
+  \EN＊ なんか　すっげー
+  　 たのしそうに
+  　 かいてたけどさ。/%
+"obj_town_north_catty_house_slash_Step_0_gml_952_0": |-
+  \EN＊ おまえ^1　みらんなくて
+  　 ざんねんだったな。/
+"obj_town_north_catty_house_slash_Step_0_gml_953_0": |-
+  \E2＊ あとで　テーブルに
+  　 もっかい　かいてやるよ。/
+"obj_town_north_catty_house_slash_Step_0_gml_954_0": |-
+  \E9＊ おまえの　えも　かいてやる
+  　 からさ^1。オレの　いきで
+  　 とかされてるとこな。/%

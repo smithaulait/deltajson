@@ -1,0 +1,100 @@
+"obj_room_changing_room_slash_Step_0_gml_20_0": |-
+  ＊ おっ！^1　Ｓランク
+  　 取りはったんですな^1？（ウマいこと
+  　 やりましたな…　ヒッヒッヒ…）/
+"obj_room_changing_room_slash_Step_0_gml_21_0": |-
+  ＊ じつは…^1　ガチもんの　テレビ好きの
+  　 ために　Ｓより上のランクが
+  　 あるらしいんですわ。/
+"obj_room_changing_room_slash_Step_0_gml_24_0": |-
+  ＊ …「テレビ好き」ゆうか^1…
+  　 テレビバカですわな！　そんなランク
+  　 欲しいヤツおりまっか…？/~1
+"obj_room_changing_room_slash_Step_0_gml_26_0": |-
+  ＊ …なんで　そんな
+  　 はずかしそうに　してはるんです…？/%
+"obj_room_changing_room_slash_Step_0_gml_38_0": |-
+  ＊ …Ｔランク^1　取りはったんやろ^1？
+  　 ハハッ…^1　
+  　 気にすることありまへん。/
+"obj_room_changing_room_slash_Step_0_gml_39_0": |-
+  ＊ テナはんから　直接もろたんやろ^1？
+  　 まったく^1　テナはんも
+  　 シケたことしはりますな…！/%
+"obj_room_changing_room_slash_Step_0_gml_54_0": |-
+  #払う
+"obj_room_changing_room_slash_Step_0_gml_55_0": |-
+  #払わない
+"obj_room_changing_room_slash_Step_0_gml_59_0": |-
+  ＊ ルードバスターのヒント
+  　 教えまひょか^1？
+  　 1ポイント　ポッキリでっせ…/
+"obj_room_changing_room_slash_Step_0_gml_107_0_b": |-
+  ＊ おおきに^1。
+  　 ありがたく　いただきますわ。/%
+"obj_room_changing_room_slash_Step_0_gml_115_0": |-
+  ＊ さいでっか^1。
+  　 ほんでも　教えたりますわ。/%
+"obj_room_changing_room_slash_Step_0_gml_143_0": |-
+  ＊ スージィのルードバスターが
+  　 敵に当たる直前に…/
+"obj_room_changing_room_slash_Step_0_gml_144_0": |-
+  ＊ ~1押すと^1　与えるダメージが
+  　 増えますねん！/
+"obj_room_changing_room_slash_Step_0_gml_145_0": |-
+  ＊ うまいこといったときは
+  　 音が変わりますよって^1　
+  　 すぐわかりますわ。/
+"obj_room_changing_room_slash_Step_0_gml_146_0": |-
+  ＊ ええでっしゃろ？^1　
+  　 もし戦うことがあったら
+  　 試しとくんなはれ…！/%
+"obj_room_changing_room_slash_Step_0_gml_29_0": |-
+  ＊ ほらよぉ^1！
+  　 それと^1…わかってると思うけども…
+  　 くれぐれも　テナにはナイショでな？/%
+"obj_room_changing_room_slash_Step_0_gml_80_0": |-
+  ＊ おークリス！^1　VIP専用の更衣室に
+  　 入れたんかぁ！　えらい立派に
+  　 なったなぁ！/%
+"obj_room_changing_room_slash_Step_0_gml_81_0": |-
+  \M2＊ ゲームは　どんな感じけ^1？
+  　 …そうだわなぁ^1。てぇしたこと
+  　 ねぇわなぁ？/
+"obj_room_changing_room_slash_Step_0_gml_82_0": |-
+  \M4＊ あれじゃぁ　クリスは
+  　 満足できねぇ。オラには
+  　 わかってたでぇ。/%
+"obj_room_changing_room_slash_Step_0_gml_167_0": |-
+  \M2＊ じつはなぁ^1…いまクリスが
+  　 プレイしてる　あのゲームはなぁ…
+  　 ホントは　あんなじゃねぇんだぁ。/
+"obj_room_changing_room_slash_Step_0_gml_105_0": |-
+  \M4＊ テナが　あっちこっち
+  　 手ぇ加えたおかげで…/
+"obj_room_changing_room_slash_Step_0_gml_106_0": |-
+  \M5＊ せぇ～っかくの楽しい冒険が
+  　 ただの１本道になってしまってなぁ。/
+"obj_room_changing_room_slash_Step_0_gml_107_0": |-
+  \M4＊ ぜ～んぜん　つまらん。/
+"obj_room_changing_room_slash_Step_0_gml_108_0": |-
+  \M6＊ オラは　クリスのこと　よ～く
+  　 わかってるでぇ^1。あれじゃあ
+  　 クリスは^1　満足しねぇなぁ。/
+"obj_room_changing_room_slash_Step_0_gml_109_0": |-
+  \M5＊ クリスは^1…自由が好きだぁ。
+  　 オラは　よ～く知ってるでぇ！/
+"obj_room_changing_room_slash_Step_0_gml_110_0": |-
+  \M7＊ これ　大きな声では言えねぇけど…/
+"obj_room_changing_room_slash_Step_0_gml_111_0": |-
+  \M6＊ このとびらの先の
+  　 バックステージに…/
+"obj_room_changing_room_slash_Step_0_gml_114_0": "\\M5＊ テナが　手ぇ加えてねぇ^1 \n　 何するのも自由な　「元のゲーム」が\n\
+  　 あるんだぁ。/"
+"obj_room_changing_room_slash_Step_0_gml_120_0": |-
+  \M0＊ …と^1　話が長くなったけども^1…
+  　 ホレ^1　さっそく遊んできなぁ！/
+"obj_room_changing_room_slash_Step_0_gml_177_0": |-
+  \M7＊ テナのことは　オラが
+  　 見張っとくよぉ^1。気ぃすむまで
+  　 遊んでくるといいよぉ！/%
